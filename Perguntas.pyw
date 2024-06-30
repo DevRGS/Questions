@@ -178,7 +178,7 @@ category_label.pack()
 
 categories = ["Geral", "Estoque", "PDV"]
 for category in categories:
-    button = ttk.Button(root, text=category, style="Outline.TButton", command=lambda c=category: select_category(c))
+    button = ttk.Button(root, text=category, style="Outline.TButton", cursor="hand2", command=lambda c=category: select_category(c))
     button.pack(pady=5)
 
 # Função para salvar a pontuação ao fechar a janela principal
