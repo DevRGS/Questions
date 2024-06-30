@@ -1,0 +1,93 @@
+[
+    {
+        "question": "O sistema tem Controle de Estoque?", 
+        "options": ["Sim", "Não"], 
+        "correct_answer": "Sim", 
+        "answered": true,
+        "category": "Estoque"
+    },
+    {
+        "question": "Quem escreveu 'Dom Quixote'?", 
+        "options": ["Machado de Assis", "Garcia Lorca", "Miguel de Cervantes", "Jorge Luis Borges"], 
+        "correct_answer": "Miguel de Cervantes", 
+        "answered": true,
+        "category": "Geral"
+    },
+    {
+        "question": "Como se chama o processo de entrada de produtos no estoque?", 
+        "options": ["Recebimento", "Expedição", "Distribuição", "Venda"], 
+        "correct_answer": "Recebimento", 
+        "answered": false,
+        "category": "Estoque"
+    },
+    {
+        "question": "O que significa PDV?", 
+        "options": ["Ponto de Venda", "Produto de Venda", "Preço de Venda", "Posto de Venda"], 
+        "correct_answer": "Ponto de Venda", 
+        "answered": false,
+        "category": "PDV"
+    },
+    {
+        "question": "Qual das opções a seguir é uma funcionalidade comum de um sistema PDV?", 
+        "options": ["Gestão de estoques", "Processamento de pagamentos", "Planejamento de produção", "Controle de qualidade"], 
+        "correct_answer": "Processamento de pagamentos", 
+        "answered": false,
+        "category": "PDV"
+    },
+    {
+        "question": "O que é necessário para um sistema PDV processar um pagamento com cartão de crédito?", 
+        "options": ["Conexão com um gateway de pagamento", "Integração com redes sociais", "Atualização de software semanal", "Suporte a múltiplas moedas"], 
+        "correct_answer": "Conexão com um gateway de pagamento", 
+        "answered": false,
+        "category": "PDV"
+    },
+    {
+        "question": "Qual é um dos principais benefícios do uso de um sistema PDV?", 
+        "options": ["Aumento de custos operacionais", "Melhoria na gestão de vendas", "Redução de segurança", "Complexidade na operação"], 
+        "correct_answer": "Melhoria na gestão de vendas", 
+        "answered": false,
+        "category": "PDV"
+    },
+    {
+        "question": "Qual dispositivo é frequentemente usado em conjunto com um PDV para escanear produtos?", 
+        "options": ["Impressora térmica", "Leitor de código de barras", "Terminal bancário", "Balança digital"], 
+        "correct_answer": "Leitor de código de barras", 
+        "answered": false,
+        "category": "PDV"
+    },
+    {
+        "question": "O que significa ERP?", 
+        "options": ["Enterprise Resource Planning", "Enterprise Risk Planning", "Enterprise Resource Program", "Enterprise Regulatory Protocol"], 
+        "correct_answer": "Enterprise Resource Planning", 
+        "answered": false,
+        "category": "ERP"
+    },
+    {
+        "question": "Qual é a principal função de um sistema ERP?", 
+        "options": ["Gerenciar recursos empresariais", "Executar campanhas de marketing", "Analisar redes sociais", "Desenvolver aplicativos móveis"], 
+        "correct_answer": "Gerenciar recursos empresariais", 
+        "answered": false,
+        "category": "ERP"
+    },
+    {
+        "question": "Qual é um dos benefícios de implementar um sistema ERP?", 
+        "options": ["Descentralização de dados", "Aumento de redundância de informações", "Melhoria na eficiência operacional", "Maior tempo de inatividade"], 
+        "correct_answer": "Melhoria na eficiência operacional", 
+        "answered": false,
+        "category": "ERP"
+    },
+    {
+        "question": "Qual módulo de um sistema ERP geralmente cuida da gestão de inventário?", 
+        "options": ["Finanças", "Recursos Humanos", "Logística", "Vendas"], 
+        "correct_answer": "Logística", 
+        "answered": false,
+        "category": "ERP"
+    },
+    {
+        "question": "Qual é um desafio comum na implementação de um sistema ERP?", 
+        "options": ["Baixo custo de implementação", "Fácil integração com todos os sistemas", "Resistência à mudança por parte dos funcionários", "Implementação rápida"], 
+        "correct_answer": "Resistência à mudança por parte dos funcionários", 
+        "answered": false,
+        "category": "ERP"
+    }
+]
