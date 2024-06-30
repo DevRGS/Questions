@@ -1,9 +1,6 @@
 import os
 import sys
 
-if sys.platform == "win32":
-    import ctypes
-    ctypes.windll.user32.ShowWindow(ctypes.windll.kernel32.GetConsoleWindow(), 0)
 
 import tkinter as tk
 from tkinter import messagebox, ttk
@@ -31,6 +28,10 @@ def show_question(root, question_data, user_name, score_label, unanswered_questi
     # Label para o nome do usuário
     question_user = tk.Label(root, text='Nome: ' + user_name, wraplength=300, padx=100, pady=0)
     question_user.pack()
+    
+    if sys.platform == "win32":
+        import ctypes
+        ctypes.windll.user32.ShowWindow(ctypes.windll.kernel32.GetConsoleWindow(), 0)
     
     # Label para a pontuação
     question_score = tk.Label(root, text='Pontos: ' + str(score_label.get()), wraplength=300, padx=100, pady=0)
