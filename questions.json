@@ -1,13 +1,13 @@
 [
     {
-        "question": "O que é PDV (Ponto de Venda)?",
+        "question": "O que significa PDV?",
         "options": [
-            "Um sistema de pagamento online",
-            "Local onde ocorre a transação entre comerciante e cliente",
-            "Um sistema de gestão de estoque",
-            "Uma máquina de cartões"
+            "Pronto dra Venda",
+            "Ponto de Renda",
+            "Ponto de venda",
+            "Processo de venda"
         ],
-        "correct_answer": "Local onde ocorre a transação entre comerciante e cliente",
+        "correct_answer": "Ponto de venda",
         "answered": false,
         "category": "PDV"
     },
@@ -16,7 +16,7 @@
         "options": [
             "Garantir a continuidade das vendas mesmo sem internet",
             "Aumentar a quantidade de produtos no estoque",
-            "Processar apenas transações online",
+            "Processar apenas transações offline",
             "Emitir relatórios financeiros"
         ],
         "correct_answer": "Garantir a continuidade das vendas mesmo sem internet",
@@ -27,23 +27,23 @@
         "question": "Qual a vantagem da integração entre PDV e uma maquininha de cartão?",
         "options": [
             "Apenas processar pagamentos",
-            "Sincronizar dados e otimizar operações",
-            "Emitir boletos bancários",
-            "Atualizar manualmente o estoque"
+            "Não ter necessidade de digitar os valores na maquininha de cartão",
+            "Emitir boletos bancários diretamente pela maquina de cartão",
+            "Atualizar manualmente o estoque após a vender produtos da categoria insumos"
         ],
-        "correct_answer": "Sincronizar dados e otimizar operações",
+        "correct_answer": "Não ter necessidade de digitar os valores na maquininha de cartão",
         "answered": false,
         "category": "PDV"
     },
     {
         "question": "O que acontece com as vendas realizadas em um sistema PDV offline?",
         "options": [
-            "São processadas normalmente, mas sincronizadas quando a internet retorna",
+            "São processadas normalmente, mas sincronizadas com ERP quando a internet retorna",
             "Ficam pendentes até a internet voltar",
             "São canceladas se a internet não estiver disponível",
             "São registradas apenas manualmente"
         ],
-        "correct_answer": "São processadas normalmente, mas sincronizadas quando a internet retorna",
+        "correct_answer": "São processadas normalmente, mas sincronizadas com ERP quando a internet retorna",
         "answered": false,
         "category": "PDV"
     },
@@ -168,6 +168,51 @@
         "answered": false,
         "category": "PDV"
     },
+    {
+        "question": "Posso agendar dois pedidos da mesma empresa, no mesmo dia pelo delivery manual?",
+        "options": [
+            "Não",
+            "Sim",
+            "Depende, eu vou ter que pagar?",
+            "Não é possivel agendar dois pedidos da mesma empresa no mesmo dia, deve ser duplicidade"
+        ],
+        "correct_answer": "Sim",
+        "answered": false,
+        "category": "PDV"
+    },
+    {
+        "question": "Consigo acompanhar a rota de entraga do motoboy pela janela 'Pedidos Delivery'?",
+        "options": [
+            "Não é possivel",
+            "Sim, inclusive com nome e idade do motoboy",
+            "Só é possivel se for integrado o PDV com Ifood",
+            "Só é possivel se for integrado com o Delivery Direto e ter Relatórios Dinâmico no plano",
+            "Apenas se for no estado do Amazonas"
+        ],
+        "correct_answer": "Não é possivel",
+        "answered": false,
+        "category": "PDV"
+    }, 
+    {
+        "question": "Consigo fazer importação de clientes no PDV?",
+        "options": [
+            "Sim",
+            "Não"
+        ],
+        "correct_answer": "Não",
+        "answered": false,
+        "category": "PDV"
+    }, 
+    {
+        "question": "Consigo fazer importação de clientes no ERP?",
+        "options": [
+            "Sim",
+            "Não"
+        ],
+        "correct_answer": "Não",
+        "answered": false,
+        "category": "ERP"
+    }, 
     
     {
         "question": "O que é controle de estoque?",
