@@ -204,12 +204,49 @@
         "category": "PDV"
     }, 
     {
+        "question": "É possivel gerenciar o financeiro (contas a pagar e receber) no PDV?",
+        "options": [
+            "Sim",
+            "Não",
+            "Sim, mas tem que adicionar no plano o módulo chamado 'gestão financeira PDV'"
+        ],
+        "correct_answer": "Não",
+        "answered": false,
+        "category": "PDV"
+    }, 
+    {
+        "question": "É possivel gerenciar o financeiro (contas a pagar e receber) no PDV?",
+        "options": [
+            "Sim",
+            "Não",
+            "Sim, mas tem que adicionar no plano o módulo chamado 'gestão financeira PDV'"
+        ],
+        "correct_answer": "Não",
+        "answered": false,
+        "category": "PDV"
+    }, 
+    {
+        "question": "Sobre fechamento de caixa, é CORRETO afirmar que:",
+        "options": [
+            "Registra todas as vendas do dia, incluindo as oriundas de integrações, como Ifood, AnotaAI, Tray",
+            "Registra Apenas a vendas realizadas no Dinheiro e Cartão.",
+            "Sim, mas tem que adicionar no plano o módulo chamado 'gestão financeira PDV'",
+            "Registra apenas fechamento de caixa às cegas",
+            "Se fechar o PDV antes de fechar o Caixa, perde-se as vendas",
+            "Registra todas as vendas do dias passadas pelo PDV, independente da forma de pagamento",
+            "É possivel fazer fechamento de caixa na SmartPOS"
+        ],
+        "correct_answer": "Registra todas as vendas do dias passadas pelo PDV, independente da forma de pagamento",
+        "answered": false,
+        "category": "PDV"
+    }, 
+    {
         "question": "Consigo fazer importação de clientes no ERP?",
         "options": [
             "Sim",
             "Não"
         ],
-        "correct_answer": "Não",
+        "correct_answer": "Sim",
         "answered": false,
         "category": "ERP"
     }, 
