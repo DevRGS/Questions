@@ -228,11 +228,10 @@
     {
         "question": "Sobre fechamento de caixa, é CORRETO afirmar que:",
         "options": [
-            "Registra todas as vendas do dia, incluindo as oriundas de integrações, como Ifood, AnotaAI, Tray",
+            "Registra todas as vendas do dia, incluindo as oriundas de integrações, como Ifood, AnotaAI, AiqFome e Tray",
             "Registra Apenas a vendas realizadas no Dinheiro e Cartão.",
-            "Sim, mas tem que adicionar no plano o módulo chamado 'gestão financeira PDV'",
             "Registra apenas fechamento de caixa às cegas",
-            "Se fechar o PDV antes de fechar o Caixa, perde-se as vendas",
+            "Se fechar o programa PDV antes de fechar o Caixa, perde-se as vendas",
             "Registra todas as vendas do dias passadas pelo PDV, independente da forma de pagamento",
             "É possivel fazer fechamento de caixa na SmartPOS"
         ],
