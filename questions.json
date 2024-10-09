@@ -1,86 +1,511 @@
 [
     {
-        "question": "O sistema tem Controle de Estoque?", 
-        "options": ["Sim", "Não"], 
-        "correct_answer": "Sim", 
-        "answered": true,
+        "question": "O que é PDV (Ponto de Venda)?",
+        "options": [
+            "Um sistema de pagamento online",
+            "Local onde ocorre a transação entre comerciante e cliente",
+            "Um sistema de gestão de estoque",
+            "Uma máquina de cartões"
+        ],
+        "correct_answer": "Local onde ocorre a transação entre comerciante e cliente",
+        "answered": false,
+        "category": "PDV"
+    },
+    {
+        "question": "Qual a principal função de um sistema de PDV offline?",
+        "options": [
+            "Garantir a continuidade das vendas mesmo sem internet",
+            "Aumentar a quantidade de produtos no estoque",
+            "Processar apenas transações online",
+            "Emitir relatórios financeiros"
+        ],
+        "correct_answer": "Garantir a continuidade das vendas mesmo sem internet",
+        "answered": false,
+        "category": "PDV"
+    },
+    {
+        "question": "Qual a vantagem da integração entre PDV e uma maquininha de cartão?",
+        "options": [
+            "Apenas processar pagamentos",
+            "Sincronizar dados e otimizar operações",
+            "Emitir boletos bancários",
+            "Atualizar manualmente o estoque"
+        ],
+        "correct_answer": "Sincronizar dados e otimizar operações",
+        "answered": false,
+        "category": "PDV"
+    },
+    {
+        "question": "O que acontece com as vendas realizadas em um sistema PDV offline?",
+        "options": [
+            "São processadas normalmente, mas sincronizadas quando a internet retorna",
+            "Ficam pendentes até a internet voltar",
+            "São canceladas se a internet não estiver disponível",
+            "São registradas apenas manualmente"
+        ],
+        "correct_answer": "São processadas normalmente, mas sincronizadas quando a internet retorna",
+        "answered": false,
+        "category": "PDV"
+    },
+
+    {
+        "question": "Qual é a função básica de um sistema PDV?",
+        "options": [
+            "Processar pagamentos e registrar vendas",
+            "Controlar o estoque",
+            "Gerar relatórios financeiros",
+            "Emitir boletos"
+        ],
+        "correct_answer": "Processar pagamentos e registrar vendas",
+        "answered": false,
+        "category": "PDV"
+    },
+    {
+        "question": "Quais são os principais tipos de PDV?",
+        "options": [
+            "PDV Online e PDV Offline",
+            "PDV Manual e PDV Automatizado",
+            "PDV Digital e PDV Físico",
+            "PDV Varejo e PDV Atacado"
+        ],
+        "correct_answer": "PDV Online e PDV Offline",
+        "answered": false,
+        "category": "PDV"
+    },
+    {
+        "question": "Como um PDV integrado ao ERP pode beneficiar uma empresa?",
+        "options": [
+            "Facilita a gestão de vendas e estoque",
+            "Automatiza a reposição de funcionários",
+            "Cria campanhas de marketing",
+            "Reduz a necessidade de gerentes"
+        ],
+        "correct_answer": "Facilita a gestão de vendas e estoque",
+        "answered": false,
+        "category": "PDV"
+    },
+    {
+        "question": "Qual é a vantagem de um PDV com sistema em nuvem?",
+        "options": [
+            "Acesso remoto a dados e maior segurança",
+            "Redução de custo com equipamentos",
+            "Melhor integração com bancos",
+            "Automatização completa de processos"
+        ],
+        "correct_answer": "Acesso remoto a dados e maior segurança",
+        "answered": false,
+        "category": "PDV"
+    },
+    {
+        "question": "O que é uma transação sem contato, em relação ao PDV?",
+        "options": [
+            "Pagamento com cartões por aproximação",
+            "Transação realizada via boleto",
+            "Venda por telefone",
+            "Recebimento de pagamento via depósito bancário"
+        ],
+        "correct_answer": "Pagamento com cartões por aproximação",
+        "answered": false,
+        "category": "PDV"
+    },
+    {
+        "question": "Como o PDV melhora a experiência do cliente?",
+        "options": [
+            "Agilizando o processo de pagamento",
+            "Aumentando o preço dos produtos",
+            "Diminuindo a quantidade de vendedores",
+            "Removendo a opção de pagamento parcelado"
+        ],
+        "correct_answer": "Agilizando o processo de pagamento",
+        "answered": false,
+        "category": "PDV"
+    },
+    {
+        "question": "O que o sistema PDV permite que o vendedor faça durante o atendimento?",
+        "options": [
+            "Registre a venda e emita nota fiscal",
+            "Verifique o estoque de outros fornecedores",
+            "Gerencie o RH da empresa",
+            "Automatize o envio de e-mails para clientes"
+        ],
+        "correct_answer": "Registre a venda e emita nota fiscal",
+        "answered": false,
+        "category": "PDV"
+    },
+    {
+        "question": "O que significa PDV móvel?",
+        "options": [
+            "PDV instalado em dispositivos portáteis, como tablets e smartphones",
+            "Um sistema PDV que funciona em locais públicos",
+            "Um ponto de venda temporário",
+            "Uma funcionalidade que imprime notas fiscais automaticamente"
+        ],
+        "correct_answer": "PDV instalado em dispositivos portáteis, como tablets e smartphones",
+        "answered": false,
+        "category": "PDV"
+    },
+    {
+        "question": "O que acontece quando o sistema PDV é utilizado sem integração com o estoque?",
+        "options": [
+            "Pode haver inconsistência de dados entre vendas e estoque",
+            "Aumenta a eficiência da empresa",
+            "Diminui a quantidade de relatórios gerados",
+            "O sistema não funciona"
+        ],
+        "correct_answer": "Pode haver inconsistência de dados entre vendas e estoque",
+        "answered": false,
+        "category": "PDV"
+    },
+    {
+        "question": "Quais são as formas de pagamento mais comuns processadas pelo PDV?",
+        "options": [
+            "Cartão de crédito, débito e dinheiro",
+            "Cheque e crédito consignado",
+            "Pix e Bitcoin",
+            "Trocas e devoluções"
+        ],
+        "correct_answer": "Cartão de crédito, débito e dinheiro",
+        "answered": false,
+        "category": "PDV"
+    },
+    
+    {
+        "question": "O que é controle de estoque?",
+        "options": [
+            "O processo de gerenciar a quantidade de produtos disponíveis",
+            "O sistema de pagamento de produtos",
+            "A organização de clientes na loja",
+            "A contagem de dinheiro no caixa"
+        ],
+        "correct_answer": "O processo de gerenciar a quantidade de produtos disponíveis",
+        "answered": false,
         "category": "Estoque"
     },
     {
-        "question": "O que significa PDV?", 
-        "options": ["Ponto de Venda", "Produto de Venda", "Preço de Venda", "Posto de Venda"], 
-        "correct_answer": "Ponto de Venda", 
-        "answered": false,
-        "category": "PDV"
-    },
-    {
-        "question": "Como se chama o processo de entrada de produtos no estoque?", 
-        "options": ["Recebimento", "Expedição", "Distribuição", "Venda"], 
-        "correct_answer": "Recebimento", 
+        "question": "Por que o controle de estoque é importante para uma empresa?",
+        "options": [
+            "Para evitar a falta de produtos e reduzir custos com armazenagem",
+            "Para aumentar o número de funcionários",
+            "Para gerar mais relatórios financeiros",
+            "Para verificar a qualidade dos produtos"
+        ],
+        "correct_answer": "Para evitar a falta de produtos e reduzir custos com armazenagem",
         "answered": false,
         "category": "Estoque"
     },
     {
-        "question": "Qual das opções a seguir é uma funcionalidade comum de um sistema PDV?", 
-        "options": ["Gestão de estoques", "Registro de vendas", "Planejamento de produção", "Controle de qualidade"], 
-        "correct_answer": "Registro de vendas", 
+        "question": "Qual é o impacto de um controle de estoque eficiente nas finanças da empresa?",
+        "options": [
+            "Reduz custos com excessos e faltas de produtos",
+            "Aumenta o número de vendas automaticamente",
+            "Evita problemas com clientes",
+            "Diminui o fluxo de caixa"
+        ],
+        "correct_answer": "Reduz custos com excessos e faltas de produtos",
         "answered": false,
-        "category": "PDV"
+        "category": "Estoque"
     },
     {
-        "question": "O que é necessário para um sistema PDV processar um pagamento com cartão de crédito?", 
-        "options": ["Conexão com um gateway de pagamento", "Integração com redes sociais", "Atualização de software semanal", "Suporte a múltiplas moedas"], 
-        "correct_answer": "Conexão com um gateway de pagamento", 
+        "question": "Qual é a diferença entre estoque de segurança e estoque mínimo?",
+        "options": [
+            "Estoque de segurança é o volume extra para imprevistos, enquanto o estoque mínimo é o volume necessário para operação",
+            "Estoque de segurança é o necessário para venda e o estoque mínimo é para reposição",
+            "Ambos são a mesma coisa",
+            "Estoque mínimo é o volume extra, enquanto o estoque de segurança é o volume de operação"
+        ],
+        "correct_answer": "Estoque de segurança é o volume extra para imprevistos, enquanto o estoque mínimo é o volume necessário para operação",
         "answered": false,
-        "category": "PDV"
+        "category": "Estoque"
     },
     {
-        "question": "Qual é um dos principais benefícios do uso de um sistema PDV?", 
-        "options": ["Aumento de custos operacionais", "Melhoria na gestão de vendas", "Redução de segurança", "Complexidade na operação"], 
-        "correct_answer": "Melhoria na gestão de vendas", 
+        "question": "O que é o giro de estoque?",
+        "options": [
+            "A quantidade de vezes que o estoque é renovado em um período",
+            "O número de produtos recebidos por dia",
+            "O lucro obtido com as vendas",
+            "A quantidade de vendas em um mês"
+        ],
+        "correct_answer": "A quantidade de vezes que o estoque é renovado em um período",
         "answered": false,
-        "category": "PDV"
+        "category": "Estoque"
     },
     {
-        "question": "Qual dispositivo é frequentemente usado em conjunto com um PDV para escanear produtos?", 
-        "options": ["Impressora térmica", "Leitor de código de barras", "Terminal bancário", "Balança digital"], 
-        "correct_answer": "Leitor de código de barras", 
+        "question": "Como o controle de estoque ajuda a evitar o desperdício de produtos?",
+        "options": [
+            "Monitora a data de validade e evita a compra excessiva",
+            "Aumenta o preço dos produtos",
+            "Controla a entrada de clientes",
+            "Diminui a quantidade de produtos vendidos"
+        ],
+        "correct_answer": "Monitora a data de validade e evita a compra excessiva",
         "answered": false,
-        "category": "PDV"
+        "category": "Estoque"
     },
     {
-        "question": "O que significa ERP?", 
-        "options": ["Enterprise Resource Planning", "Enterprise Risk Planning", "Enterprise Resource Program", "Enterprise Regulatory Protocol"], 
-        "correct_answer": "Enterprise Resource Planning", 
+        "question": "O que é inventário periódico no controle de estoque?",
+        "options": [
+            "A contagem manual dos produtos em um intervalo regular",
+            "A compra de novos produtos a cada período",
+            "O processo de devolução de produtos",
+            "A venda de produtos excedentes"
+        ],
+        "correct_answer": "A contagem manual dos produtos em um intervalo regular",
         "answered": false,
-        "category": "ERP"
+        "category": "Estoque"
     },
     {
-        "question": "Qual é a principal função de um sistema ERP?", 
-        "options": ["Gerenciar recursos empresariais", "Executar campanhas de marketing", "Analisar redes sociais", "Desenvolver aplicativos móveis"], 
-        "correct_answer": "Gerenciar recursos empresariais", 
+        "question": "Como um software de controle de estoque pode ajudar uma empresa?",
+        "options": [
+            "Automatiza o processo de gestão de produtos, facilita reposição e melhora a previsão de demanda",
+            "Aumenta o número de produtos no estoque",
+            "Reduz a quantidade de funcionários necessários",
+            "Melhora a comunicação com os clientes"
+        ],
+        "correct_answer": "Automatiza o processo de gestão de produtos, facilita reposição e melhora a previsão de demanda",
         "answered": false,
-        "category": "ERP"
+        "category": "Estoque"
     },
     {
-        "question": "Qual é um dos benefícios de implementar um sistema ERP?", 
-        "options": ["Descentralização de dados", "Aumento de redundância de informações", "Melhoria na eficiência operacional", "Maior tempo de inatividade"], 
-        "correct_answer": "Melhoria na eficiência operacional", 
+        "question": "O que é a curva ABC no controle de estoque?",
+        "options": [
+            "É uma técnica que classifica os produtos em três categorias conforme sua importância",
+            "É uma metodologia de compra de produtos",
+            "É o processo de avaliação de fornecedores",
+            "É uma forma de distribuir os produtos na loja"
+        ],
+        "correct_answer": "É uma técnica que classifica os produtos em três categorias conforme sua importância",
         "answered": false,
-        "category": "ERP"
+        "category": "Estoque"
     },
     {
-        "question": "Qual módulo de um sistema ERP geralmente cuida da gestão de inventário?", 
-        "options": ["Finanças", "Recursos Humanos", "Logística", "Vendas"], 
-        "correct_answer": "Logística", 
+        "question": "Quais são os principais desafios de um controle de estoque manual?",
+        "options": [
+            "Falta de precisão e maior risco de erros humanos",
+            "Aumento de vendas e lucro",
+            "Automação dos processos de venda",
+            "Maior satisfação dos clientes"
+        ],
+        "correct_answer": "Falta de precisão e maior risco de erros humanos",
         "answered": false,
-        "category": "ERP"
+        "category": "Estoque"
     },
     {
-        "question": "Qual é um desafio comum na implementação de um sistema ERP?", 
-        "options": ["Baixo custo de implementação", "Fácil integração com todos os sistemas", "Resistência à mudança por parte dos funcionários", "Implementação rápida"], 
-        "correct_answer": "Resistência à mudança por parte dos funcionários", 
+        "question": "Qual é o papel do controle de estoque na prevenção de rupturas?",
+        "options": [
+            "Garante que os produtos estejam disponíveis para evitar a perda de vendas",
+            "Verifica a qualidade dos produtos vendidos",
+            "Diminui os preços dos produtos",
+            "Aumenta a produção dos produtos"
+        ],
+        "correct_answer": "Garante que os produtos estejam disponíveis para evitar a perda de vendas",
         "answered": false,
-        "category": "ERP"
+        "category": "Estoque"
+    },
+    {
+        "question": "O que é um estoque obsoleto?",
+        "options": [
+            "Produtos que não têm mais demanda ou estão fora de validade",
+            "Produtos em alta demanda",
+            "Produtos com alta rotatividade",
+            "Produtos importados"
+        ],
+        "correct_answer": "Produtos que não têm mais demanda ou estão fora de validade",
+        "answered": false,
+        "category": "Estoque"
+    },
+    {
+        "question": "Qual é a relação entre controle de estoque e fluxo de caixa?",
+        "options": [
+            "Um controle de estoque eficiente reduz custos e melhora o fluxo de caixa",
+            "O estoque interfere diretamente no lucro dos funcionários",
+            "O estoque não tem impacto no fluxo de caixa",
+            "A compra de novos produtos reduz o estoque"
+        ],
+        "correct_answer": "Um controle de estoque eficiente reduz custos e melhora o fluxo de caixa",
+        "answered": false,
+        "category": "Estoque"
+    },
+    {
+        "question": "Como o controle de estoque contribui para a satisfação do cliente?",
+        "options": [
+            "Garante que os produtos desejados estejam sempre disponíveis",
+            "Reduz o preço dos produtos",
+            "Aumenta o número de promoções",
+            "Facilita o processo de pagamento"
+        ],
+        "correct_answer": "Garante que os produtos desejados estejam sempre disponíveis",
+        "answered": false,
+        "category": "Estoque"
+    },
+    {
+        "question": "O que é controle de estoque integrado?",
+        "options": [
+            "Sistema que integra o estoque a outras áreas da empresa, como vendas e finanças",
+            "Processo de contar manualmente os produtos no estoque",
+            "Uma técnica de armazenagem de produtos perecíveis",
+            "O método de distribuição de produtos entre diferentes filiais"
+        ],
+        "correct_answer": "Sistema que integra o estoque a outras áreas da empresa, como vendas e finanças",
+        "answered": false,
+        "category": "Estoque"
+    },
+    {
+        "question": "Como o controle de estoque influencia nas compras da empresa?",
+        "options": [
+            "Ajuda a planejar reposições e evitar compras excessivas ou desnecessárias",
+            "Aumenta o custo com fornecedores",
+            "Reduz o número de funcionários no departamento de compras",
+            "Facilita a renegociação de preços com fornecedores"
+        ],
+        "correct_answer": "Ajuda a planejar reposições e evitar compras excessivas ou desnecessárias",
+        "answered": false,
+        "category": "Estoque"
+    },
+    {
+        "question": "Qual é o impacto de um controle de estoque mal gerido?",
+        "options": [
+            "Perda de vendas, aumento de custos e risco de desperdício",
+            "Aumento do número de funcionários",
+            "Maior satisfação dos clientes",
+            "Redução da quantidade de produtos"
+        ],
+        "correct_answer": "Perda de vendas, aumento de custos e risco de desperdício",
+        "answered": false,
+        "category": "Estoque"
+    },
+    {
+        "question": "Quais são os principais indicadores de desempenho no controle de estoque?",
+        "options": [
+            "Giro de estoque, cobertura de estoque e ruptura de estoque",
+            "Vendas diárias, lucro líquido e número de devoluções",
+            "Quantidade de produtos em promoção, número de clientes e fluxo de caixa",
+            "Nível de satisfação do cliente, vendas anuais e fluxo de vendas"
+        ],
+        "correct_answer": "Giro de estoque, cobertura de estoque e ruptura de estoque",
+        "answered": false,
+        "category": "Estoque"
+    },
+
+        {
+        "question": "O que é fluxo de caixa?",
+        "options": [
+            "A diferença entre entradas e saídas de recursos financeiros em um período",
+            "O valor total de vendas realizado em um mês",
+            "O saldo bancário da empresa",
+            "A quantidade de produtos vendidos"
+        ],
+        "correct_answer": "A diferença entre entradas e saídas de recursos financeiros em um período",
+        "answered": false,
+        "category": "Financeiro"
+    },
+    {
+        "question": "Qual é a importância de um fluxo de caixa projetado para uma empresa?",
+        "options": [
+            "Permite prever necessidades de capital e evitar falta de recursos",
+            "Aumenta automaticamente o lucro da empresa",
+            "Garante que a empresa pague menos impostos",
+            "Facilita o aumento de preços dos produtos"
+        ],
+        "correct_answer": "Permite prever necessidades de capital e evitar falta de recursos",
+        "answered": false,
+        "category": "Financeiro"
+    },
+    {
+        "question": "Como o controle de contas a pagar e a receber impacta na saúde financeira da empresa?",
+        "options": [
+            "Ajuda a manter o equilíbrio financeiro, evitando dívidas e inadimplência",
+            "Aumenta o número de clientes",
+            "Reduz o número de funcionários no departamento financeiro",
+            "Melhora a qualidade dos produtos"
+        ],
+        "correct_answer": "Ajuda a manter o equilíbrio financeiro, evitando dívidas e inadimplência",
+        "answered": false,
+        "category": "Financeiro"
+    },
+    {
+        "question": "Qual é a função do Demonstrativo de Resultados (DRE)?",
+        "options": [
+            "Mostrar as receitas, custos e despesas da empresa em determinado período",
+            "Monitorar o estoque de produtos",
+            "Analisar a qualidade dos serviços prestados",
+            "Verificar o número de funcionários contratados"
+        ],
+        "correct_answer": "Mostrar as receitas, custos e despesas da empresa em determinado período",
+        "answered": false,
+        "category": "Financeiro"
+    },
+    {
+        "question": "O que significa capital de giro?",
+        "options": [
+            "O montante de recursos necessários para manter as operações diárias da empresa",
+            "O valor que a empresa tem em estoque",
+            "O lucro obtido ao final do ano",
+            "O dinheiro utilizado para investir em marketing"
+        ],
+        "correct_answer": "O montante de recursos necessários para manter as operações diárias da empresa",
+        "answered": false,
+        "category": "Financeiro"
+    },
+    {
+        "question": "Como o uso de um sistema de gestão financeira pode ajudar uma empresa?",
+        "options": [
+            "Automatiza processos, melhora a gestão de recursos e facilita a tomada de decisão",
+            "Aumenta a produção de produtos",
+            "Reduz o número de funcionários",
+            "Garante um aumento de lucro imediato"
+        ],
+        "correct_answer": "Automatiza processos, melhora a gestão de recursos e facilita a tomada de decisão",
+        "answered": false,
+        "category": "Financeiro"
+    },
+    {
+        "question": "O que é conciliação bancária?",
+        "options": [
+            "O processo de comparar os registros financeiros da empresa com os extratos bancários",
+            "A emissão de notas fiscais",
+            "O fechamento do caixa ao final do dia",
+            "O cálculo do lucro bruto"
+        ],
+        "correct_answer": "O processo de comparar os registros financeiros da empresa com os extratos bancários",
+        "answered": false,
+        "category": "Financeiro"
+    },
+    {
+        "question": "Por que é importante realizar a conciliação bancária regularmente?",
+        "options": [
+            "Para identificar divergências e garantir que as finanças estejam corretas",
+            "Para aumentar o saldo bancário da empresa",
+            "Para calcular a folha de pagamento",
+            "Para reduzir o número de fornecedores"
+        ],
+        "correct_answer": "Para identificar divergências e garantir que as finanças estejam corretas",
+        "answered": false,
+        "category": "Financeiro"
+    },
+    {
+        "question": "Como um sistema de controle financeiro ajuda na gestão de múltiplas contas bancárias?",
+        "options": [
+            "Facilita o acompanhamento de saldos e movimentações em diferentes bancos",
+            "Aumenta o valor disponível em cada conta",
+            "Reduz o custo de manutenção de contas",
+            "Diminui a necessidade de auditorias externas"
+        ],
+        "correct_answer": "Facilita o acompanhamento de saldos e movimentações em diferentes bancos",
+        "answered": false,
+        "category": "Financeiro"
+    },
+    {
+        "question": "O que é o Demonstrativo de Fluxo de Caixa (DFC)?",
+        "options": [
+            "Um relatório que mostra todas as entradas e saídas de dinheiro de uma empresa em um período",
+            "Um documento que detalha as metas de vendas de uma empresa",
+            "Um registro de todas as compras de materiais de escritório",
+            "Uma análise do estoque de produtos perecíveis"
+        ],
+        "correct_answer": "Um relatório que mostra todas as entradas e saídas de dinheiro de uma empresa em um período",
+        "answered": false,
+        "category": "Financeiro"
     }
+    
+    
 ]
