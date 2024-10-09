@@ -7,11 +7,11 @@
         "category": "Estoque"
     },
     {
-        "question": "Quem escreveu 'Dom Quixote'?", 
-        "options": ["Machado de Assis", "Garcia Lorca", "Miguel de Cervantes", "Jorge Luis Borges"], 
-        "correct_answer": "Miguel de Cervantes", 
-        "answered": true,
-        "category": "Geral"
+        "question": "O que significa PDV?", 
+        "options": ["Ponto de Venda", "Produto de Venda", "Preço de Venda", "Posto de Venda"], 
+        "correct_answer": "Ponto de Venda", 
+        "answered": false,
+        "category": "PDV"
     },
     {
         "question": "Como se chama o processo de entrada de produtos no estoque?", 
@@ -21,16 +21,9 @@
         "category": "Estoque"
     },
     {
-        "question": "O que significa PDV?", 
-        "options": ["Ponto de Venda", "Produto de Venda", "Preço de Venda", "Posto de Venda"], 
-        "correct_answer": "Ponto de Venda", 
-        "answered": false,
-        "category": "PDV"
-    },
-    {
         "question": "Qual das opções a seguir é uma funcionalidade comum de um sistema PDV?", 
-        "options": ["Gestão de estoques", "Processamento de pagamentos", "Planejamento de produção", "Controle de qualidade"], 
-        "correct_answer": "Processamento de pagamentos", 
+        "options": ["Gestão de estoques", "Registro de vendas", "Planejamento de produção", "Controle de qualidade"], 
+        "correct_answer": "Registro de vendas", 
         "answered": false,
         "category": "PDV"
     },
