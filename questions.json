@@ -69,7 +69,7 @@
         ],
         "correct_answer": "Permitir que diferentes sistemas se comuniquem e troquem informações de forma padronizada.",
         "answered": false,
-        "category": "API"
+        "category": "API ConnectPlug"
     },
     {
         "question": "Qual é o custo mensal para a liberação do uso da API (tanto a atual quanto a nova) da ConnectPlug?",
@@ -81,7 +81,7 @@
         ],
         "correct_answer": "R$299/mês.",
         "answered": false,
-        "category": "API"
+        "category": "API ConnectPlug"
     },
     {
         "question": "Uma das principais mudanças na Nova API (3.0) da ConnectPlug é que ela exige o cadastro de qual entidade?",
@@ -93,7 +93,7 @@
         ],
         "correct_answer": "Do desenvolvedor como um integrador.",
         "answered": false,
-        "category": "API"
+        "category": "API ConnectPlug"
     },
     {
         "question": "No módulo de Compras da ConnectPlug, o que **NÃO** é possível gerar diretamente a partir de um Pedido de Compra?",
@@ -912,3 +912,4 @@
     "category": "Integração Bling"
   }
 ]
+
