@@ -597,7 +597,7 @@
     ],
     "correct_answer": "5.5.5",
     "answered": false,
-    "category": "Aplicativos e Dispositivos Android"
+    "category": "Android"
   },
   {
     "question": "Quais foram as funcionalidades importantes homologadas na **nova versão do aplicativo PDV Android**, disponibilizada via APK em 13/05/25?",
@@ -609,7 +609,7 @@
     ],
     "correct_answer": "Homologação com a impressora do M10 PRO e novas regras fiscais no Rio Grande do Sul.",
     "answered": false,
-    "category": "Aplicativos e Dispositivos Android"
+    "category": "Android"
   },
   {
     "question": "Qual é a observação importante sobre a **bateria do PinPad MP15 da Gertec**, que se conecta via Bluetooth?",
@@ -621,7 +621,7 @@
     ],
     "correct_answer": "Necessário manter o PinPad conectado na USB carregando devido à baixa autonomia da bateria.",
     "answered": false,
-    "category": "Aplicativos e Dispositivos Android"
+    "category": "Android"
   },
   {
     "question": "Qual a principal diferença entre os modelos '**WW TINKER BOARD**' (novo) e '**S BOARD TINKER**' (velho) da Mini CPU da ConnectPlug para Autoatendimento?",
@@ -633,7 +633,7 @@
     ],
     "correct_answer": "O modelo novo não tem adaptador Wi-Fi acoplado, exigindo cabo de rede, enquanto o velho tinha Wi-Fi.",
     "answered": false,
-    "category": "Aplicativos e Dispositivos Android"
+    "category": "Android"
   },
   {
     "question": "Para a operação de autoatendimento com a **Mini CPU da ConnectPlug**, qual o tamanho de tela e proporção recomendados para o monitor touchscreen?",
@@ -645,7 +645,7 @@
     ],
     "correct_answer": "24 polegadas, 16:9.",
     "answered": false,
-    "category": "Aplicativos e Dispositivos Android"
+    "category": "Android"
   },
   {
     "question": "Em termos de autenticação, qual é a principal diferença entre a 'API Atual' e a 'API Nova (3.0)' da ConnectPlug?",
@@ -912,4 +912,5 @@
     "category": "Integração Bling"
   }
 ]
+
 
