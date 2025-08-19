@@ -705,7 +705,7 @@
     ],
     "correct_answer": "Somente após converter um Pedido de Compra em uma Compra é possível gerar Contas a Pagar.",
     "answered": false,
-    "category": "Módulo de Estoque"
+    "category": "Estoque"
   },
   {
     "question": "Ao importar uma **NF-e de entrada via XML**, se o fornecedor não estiver cadastrado no sistema, qual ação é permitida em relação aos dados desse fornecedor?",
@@ -717,7 +717,7 @@
     ],
     "correct_answer": "É possível editar os dados do fornecedor e cadastrá-lo.",
     "answered": false,
-    "category": "Módulo de Estoque"
+    "category": "Estoque"
   },
   {
     "question": "Quando um produto já cadastrado é identificado em uma **NF-e importada via XML**, quais informações podem ser alteradas/conferidas pelo usuário?",
@@ -729,7 +729,7 @@
     ],
     "correct_answer": "Marcação de 'Disponível para venda', Código de Barras, Unidade de Medida e Fator de Conversão.",
     "answered": false,
-    "category": "Módulo de Estoque"
+    "category": "Estoque"
   },
   {
     "question": "É possível **desfazer uma 'Atualização em Lote de Produtos'** após sua confirmação no sistema?",
@@ -741,7 +741,7 @@
     ],
     "correct_answer": "Não, após a confirmação a atualização não pode ser desfeita.",
     "answered": false,
-    "category": "Módulo de Estoque"
+    "category": "Estoque"
   },
   {
     "question": "O módulo '**Lista de Preços**' permite trabalhar com valores de atacado para produtos que possuem atributos?",
@@ -753,7 +753,7 @@
     ],
     "correct_answer": "Não, não há possibilidade de trabalhar com valor atacado em produtos com atributos na lista de preço.",
     "answered": false,
-    "category": "Módulo de Estoque"
+    "category": "Estoque"
   },
   {
     "question": "Qual tipo de produto deve ser utilizado como componente em um produto do tipo '**Produção Automática**'?",
@@ -765,7 +765,7 @@
     ],
     "correct_answer": "Necessariamente produtos do tipo 'Insumo'.",
     "answered": false,
-    "category": "Módulo de Estoque"
+    "category": "Estoque"
   },
   {
     "question": "No cadastro de produtos, ao ativar a opção 'Múltiplo' para 'Atributos', qual parâmetro de cobrança permite especificar variações gratuitas e pagas, como '3 adicionais sem custo e a partir do 4º os valores seriam aplicados'?",
@@ -777,7 +777,7 @@
     ],
     "correct_answer": "Cobrar a partir da quantidade.",
     "answered": false,
-    "category": "Módulo de Estoque"
+    "category": "Estoque"
   },
   {
     "question": "Qual a **sequência correta de eventos** que resulta na **baixa de estoque do produto** e na **criação de movimentações financeiras** no sistema ConnectPlug?",
@@ -912,6 +912,7 @@
     "category": "Integração Bling"
   }
 ]
+
 
 
 
