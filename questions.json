@@ -237,7 +237,7 @@
         ],
         "correct_answer": "Trabalhar com valores distintos de venda para a mesma mercadoria em módulos diferenciados.",
         "answered": false,
-        "category": "Preços"
+        "category": "Vendas"
     },
     {
         "question": "As alterações de preços feitas via Lista de Preços no ConnectPlug podem ser revertidas?",
@@ -249,7 +249,7 @@
         ],
         "correct_answer": "Não, após salvar as alterações não será possível reverter os valores aplicados.",
         "answered": false,
-        "category": "Preços"
+        "category": "Vendas"
     },
     {
         "question": "Se um produto possui atributos na Lista de Preços, é possível utilizar valores de atacado?",
@@ -261,7 +261,7 @@
         ],
         "correct_answer": "Não há possibilidade de trabalhar com valor atacado em produtos que possuam atributos na lista de preço.",
         "answered": false,
-        "category": "Preços"
+        "category": "Vendas"
     },
     {
         "question": "Na ConnectPlug, se a marcação 'Perecível' for definida como 'Sim' para um produto, o que isso implica?",
@@ -381,7 +381,7 @@
         ],
         "correct_answer": "Cupom de Desconto.",
         "answered": false,
-        "category": "Marketing"
+        "category": "Vendas"
     },
     {
         "question": "Na criação de um Cupom de Desconto na ConnectPlug, qual opção permite gerar códigos como 'CUPOM_PROMO1', 'CUPOM_PROMO2', etc.?",
@@ -393,7 +393,7 @@
         ],
         "correct_answer": "Adicionar Código Sequencial.",
         "answered": false,
-        "category": "Marketing"
+        "category": "Vendas"
     },
     {
         "question": "Quantos créditos de SMS e E-MAIL MARKETING são inicialmente liberados ao contratar o módulo de Marketing da ConnectPlug, e qual a sua natureza?",
@@ -405,7 +405,7 @@
         ],
         "correct_answer": "250 créditos para cada modalidade, renováveis mensalmente e acumulativos.",
         "answered": false,
-        "category": "Marketing"
+        "category": "Vendas"
     },
     {
         "question": "Qual a principal razão para a integração entre ConnectPlug e Bling, considerando que Bling é um ERP online?",
@@ -417,7 +417,7 @@
         ],
         "correct_answer": "Para o Bling ter um PDV offline, o que ele não possui.",
         "answered": false,
-        "category": "Integração"
+        "category": "Integração Bling"
     },
     {
         "question": "Na sincronização de produtos da integração Bling-ConnectPlug, qual plataforma é a **origem** dos dados?",
@@ -429,7 +429,7 @@
         ],
         "correct_answer": "Bling.",
         "answered": false,
-        "category": "Integração"
+        "category": "Integração Bling"
     },
     {
         "question": "Na sincronização de vendas da integração Bling-ConnectPlug, qual plataforma é a **origem** das vendas?",
@@ -441,7 +441,7 @@
         ],
         "correct_answer": "ConnectPlug.",
         "answered": false,
-        "category": "Integração"
+        "category": "Integração Bling"
     },
     {
         "question": "No cenário de integração com o Bling, qual plataforma é responsável pelo controle de estoque?",
@@ -453,7 +453,7 @@
         ],
         "correct_answer": "O Bling é exclusivamente responsável pelo controle de estoque.",
         "answered": false,
-        "category": "Integração"
+        "category": "Integração Bling"
     },
     {
         "question": "Os métodos de pagamento são sincronizados automaticamente na integração Bling-ConnectPlug?",
@@ -465,7 +465,7 @@
         ],
         "correct_answer": "Não, é necessário realizar um 'DE-PARA' vinculando-os manualmente.",
         "answered": false,
-        "category": "Integração"
+        "category": "Integração Bling"
     },
     {
         "question": "É necessária a contratação do módulo API ou de algum módulo exclusivo da ConnectPlug para utilizar a integração com o Bling?",
@@ -477,7 +477,7 @@
         ],
         "correct_answer": "Não, não há exigência do módulo API ou de algum módulo exclusivo, apenas GRADE DE PRODUTOS se houver.",
         "answered": false,
-        "category": "Integração"
+        "category": "Integração Bling"
     },
     {
         "question": "É possível utilizar TEF (Transferência Eletrônica de Fundos) no PDV da ConnectPlug e ainda assim usar a integração com Bling?",
@@ -489,7 +489,7 @@
         ],
         "correct_answer": "Sim, qualquer módulo aplicável ao PDV pode ser usado.",
         "answered": false,
-        "category": "Integração"
+        "category": "Integração Bling"
     },
     {
         "question": "As vendas originadas no Bling sobem automaticamente para o ERP ConnectPlug na integração?",
@@ -501,7 +501,7 @@
         ],
         "correct_answer": "Não, a integração faz com que as vendas originadas no PDV CPLUG subam para o Bling.",
         "answered": false,
-        "category": "Integração"
+        "category": "Integração Bling"
     },
     {
         "question": "É possível utilizar o módulo 'Atualização em Tempo Real' no PDV 2.0 em um cenário de integração com o Bling?",
@@ -513,7 +513,7 @@
         ],
         "correct_answer": "Não, pois o controle de estoque é gerenciado pelo Bling.",
         "answered": false,
-        "category": "Integração"
+        "category": "Integração Bling"
     },
     {
         "question": "O módulo de Ordem de Serviço (OS) da ConnectPlug é gratuito ou pago?",
@@ -789,7 +789,7 @@
     ],
     "correct_answer": "Proposta -> Pedido -> Venda.",
     "answered": false,
-    "category": "Módulo de Vendas e CRM"
+    "category": "Vendas"
   },
   {
     "question": "Qual modalidade de promoção oferecida pelo módulo de Promoções da ConnectPlug é **gratuita**?",
@@ -801,7 +801,7 @@
     ],
     "correct_answer": "Cupom de Desconto.",
     "answered": false,
-    "category": "Módulo de Vendas e CRM"
+    "category": "Vendas"
   },
   {
     "question": "Em quais ambientes de vendas as promoções do módulo de Promoções da ConnectPlug estão atualmente disponíveis para aplicação?",
@@ -813,7 +813,7 @@
     ],
     "correct_answer": "PDV 2 e Totem de Autoatendimento.",
     "answered": false,
-    "category": "Módulo de Vendas e CRM"
+    "category": "Vendas"
   },
   {
     "question": "Os créditos mensais de SMS e E-MAIL MARKETING liberados na contratação do Módulo de Marketing da ConnectPlug são acumulativos?",
@@ -825,7 +825,7 @@
     ],
     "correct_answer": "Sim, os créditos não utilizados são acumulativos e renovados mensalmente.",
     "answered": false,
-    "category": "Módulo de Vendas e CRM"
+    "category": "Vendas"
   },
   {
     "question": "Quais tipos de filtros podem ser utilizados para direcionar o público-alvo em uma campanha de Marketing via SMS ou E-mail?",
@@ -837,7 +837,7 @@
     ],
     "correct_answer": "Idade, Gênero, Localização, Tipo de Produtos vendidos e Período de Vendas.",
     "answered": false,
-    "category": "Módulo de Vendas e CRM"
+    "category": "Vendas"
   },
   {
     "question": "Em um cenário de integração com o Bling, qual plataforma é responsável pelo **controle de estoque**?",
@@ -912,5 +912,6 @@
     "category": "Integração Bling"
   }
 ]
+
 
 
