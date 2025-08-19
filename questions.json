@@ -1,592 +1,914 @@
 [
     {
-        "question": "O que significa PDV?",
+        "question": "Em quais dispositivos o aplicativo PDV ANDROID da ConnectPlug pode ser utilizado?",
         "options": [
-            "Pronto dra Venda",
-            "Ponto de Renda",
-            "Ponto de venda",
-            "Processo de venda"
+            "Somente em computadores desktop.",
+            "Apenas em iPhones.",
+            "Celulares, Tablets e Mini PDV M10 Bematech / Elgin.",
+            "Smart TVs."
         ],
-        "correct_answer": "Ponto de venda",
+        "correct_answer": "Celulares, Tablets e Mini PDV M10 Bematech / Elgin.",
         "answered": false,
-        "category": "PDV"
+        "category": "Android"
     },
     {
-        "question": "Qual a principal função de um sistema de PDV offline?",
+        "question": "Qual o tamanho de tela recomendado para celular e tablet que utilizam o aplicativo PDV ANDROID?",
         "options": [
-            "Garantir a continuidade das vendas mesmo sem internet",
-            "Aumentar a quantidade de produtos no estoque",
-            "Processar apenas transações offline",
-            "Emitir relatórios financeiros"
+            "7 polegadas.",
+            "10.1 polegadas.",
+            "5 polegadas.",
+            "12 polegadas."
         ],
-        "correct_answer": "Garantir a continuidade das vendas mesmo sem internet",
+        "correct_answer": "10.1 polegadas.",
         "answered": false,
-        "category": "PDV"
+        "category": "Android"
     },
     {
-        "question": "Qual a vantagem da integração entre PDV e uma maquininha de cartão?",
+        "question": "Quais são os dispositivos onde o aplicativo TOTEM DE AUTOATENDIMENTO da CPLUG pode ser utilizado?",
         "options": [
-            "Apenas processar pagamentos",
-            "Não ter necessidade de digitar os valores na maquininha de cartão",
-            "Emitir boletos bancários diretamente pela maquina de cartão",
-            "Atualizar manualmente o estoque após a vender produtos da categoria insumos"
+            "Somente em Smart TVs.",
+            "Notebooks e desktops.",
+            "Tablets e Minicpu da ConnectPlug.",
+            "Consoles de videogame."
         ],
-        "correct_answer": "Não ter necessidade de digitar os valores na maquininha de cartão",
+        "correct_answer": "Tablets e Minicpu da ConnectPlug.",
         "answered": false,
-        "category": "PDV"
+        "category": "Autoatendimento"
     },
     {
-        "question": "O que acontece com as vendas realizadas em um sistema PDV offline?",
+        "question": "Qual a principal diferença entre o MODELO NOVO e o MODELO VELHO da mini-cpu da ConnectPlug em relação à conectividade?",
         "options": [
-            "São processadas normalmente, mas sincronizadas com ERP quando a internet retorna",
-            "Ficam pendentes até a internet voltar",
-            "São canceladas se a internet não estiver disponível",
-            "São registradas apenas manualmente"
+            "O modelo novo é mais rápido.",
+            "O modelo novo não tem adaptador Wi-Fi acoplado, apenas via cabo de rede.",
+            "O modelo velho é mais barato.",
+            "O modelo novo não suporta tela touchscreen."
         ],
-        "correct_answer": "São processadas normalmente, mas sincronizadas com ERP quando a internet retorna",
+        "correct_answer": "O modelo novo não tem adaptador Wi-Fi acoplado, apenas via cabo de rede.",
         "answered": false,
-        "category": "PDV"
-    },
-
-    {
-        "question": "Qual é a função básica de um sistema PDV?",
-        "options": [
-            "Processar pagamentos e registrar vendas",
-            "Controlar o estoque",
-            "Gerar relatórios financeiros",
-            "Emitir boletos"
-        ],
-        "correct_answer": "Processar pagamentos e registrar vendas",
-        "answered": false,
-        "category": "PDV"
+        "category": "Autoatendimento"
     },
     {
-        "question": "Quais são os principais tipos de PDV?",
+        "question": "Qual o custo mensal do software para Autoatendimento se o cliente não tiver o plano do sistema de gestão da ConnectPlug?",
         "options": [
-            "PDV Online e PDV Offline",
-            "PDV Manual e PDV Automatizado",
-            "PDV Digital e PDV Físico",
-            "PDV Varejo e PDV Atacado"
+            "R$165,00.",
+            "R$249,90.",
+            "R$349,90.",
+            "R$450,00."
         ],
-        "correct_answer": "PDV Online e PDV Offline",
+        "correct_answer": "R$349,90.",
         "answered": false,
-        "category": "PDV"
+        "category": "Autoatendimento"
     },
     {
-        "question": "Como um PDV integrado ao ERP pode beneficiar uma empresa?",
+        "question": "Qual é a principal função de uma API (Application Programming Interface) no contexto da ConnectPlug?",
         "options": [
-            "Facilita a gestão de vendas e estoque",
-            "Automatiza a reposição de funcionários",
-            "Cria campanhas de marketing",
-            "Reduz a necessidade de gerentes"
+            "Gerenciar o controle de estoque em tempo real.",
+            "Permitir que diferentes sistemas se comuniquem e troquem informações de forma padronizada.",
+            "Enviar SMS e e-mails de marketing para os clientes.",
+            "Criar propostas de vendas para clientes."
         ],
-        "correct_answer": "Facilita a gestão de vendas e estoque",
+        "correct_answer": "Permitir que diferentes sistemas se comuniquem e troquem informações de forma padronizada.",
         "answered": false,
-        "category": "PDV"
+        "category": "API"
     },
     {
-        "question": "Qual é a vantagem de um PDV com sistema em nuvem?",
+        "question": "Qual é o custo mensal para a liberação do uso da API (tanto a atual quanto a nova) da ConnectPlug?",
         "options": [
-            "Acesso remoto a dados e maior segurança",
-            "Redução de custo com equipamentos",
-            "Melhor integração com bancos",
-            "Automatização completa de processos"
+            "Gratuito.",
+            "R$100/mês.",
+            "R$299/mês.",
+            "R$500/mês."
         ],
-        "correct_answer": "Acesso remoto a dados e maior segurança",
+        "correct_answer": "R$299/mês.",
         "answered": false,
-        "category": "PDV"
+        "category": "API"
     },
     {
-        "question": "O que é uma transação sem contato, em relação ao PDV?",
+        "question": "Uma das principais mudanças na Nova API (3.0) da ConnectPlug é que ela exige o cadastro de qual entidade?",
         "options": [
-            "Pagamento com cartões por aproximação",
-            "Transação realizada via boleto",
-            "Venda por telefone",
-            "Recebimento de pagamento via depósito bancário"
+            "Do cliente final.",
+            "Do fornecedor de internet.",
+            "Do desenvolvedor como um integrador.",
+            "Da transportadora."
         ],
-        "correct_answer": "Pagamento com cartões por aproximação",
+        "correct_answer": "Do desenvolvedor como um integrador.",
         "answered": false,
-        "category": "PDV"
+        "category": "API"
     },
     {
-        "question": "Como o PDV melhora a experiência do cliente?",
+        "question": "No módulo de Compras da ConnectPlug, o que **NÃO** é possível gerar diretamente a partir de um Pedido de Compra?",
         "options": [
-            "Agilizando o processo de pagamento",
-            "Aumentando o preço dos produtos",
-            "Diminuindo a quantidade de vendedores",
-            "Removendo a opção de pagamento parcelado"
+            "Um arquivo PDF.",
+            "Uma Compra (gestão de compra).",
+            "Um Boleto ou uma Conta a Pagar.",
+            "Um e-mail para o fornecedor."
         ],
-        "correct_answer": "Agilizando o processo de pagamento",
+        "correct_answer": "Um Boleto ou uma Conta a Pagar.",
         "answered": false,
-        "category": "PDV"
+        "category": "Estoque"
     },
     {
-        "question": "O que o sistema PDV permite que o vendedor faça durante o atendimento?",
+        "question": "Ao excluir uma Compra no sistema ConnectPlug, se a opção 'Excluir movimentação de entrada' **NÃO** for marcada, o que acontecerá?",
         "options": [
-            "Registre a venda e emita nota fiscal",
-            "Verifique o estoque de outros fornecedores",
-            "Gerencie o RH da empresa",
-            "Automatize o envio de e-mails para clientes"
+            "A compra e a movimentação de estoque serão excluídas.",
+            "Somente os dados financeiros da Compra serão eliminados, mantendo a movimentação de estoque.",
+            "Apenas a movimentação de estoque será excluída.",
+            "A compra será arquivada, mas não excluída."
         ],
-        "correct_answer": "Registre a venda e emita nota fiscal",
+        "correct_answer": "Somente os dados financeiros da Compra serão eliminados, mantendo a movimentação de estoque.",
         "answered": false,
-        "category": "PDV"
+        "category": "Estoque"
     },
     {
-        "question": "O que significa PDV móvel?",
+        "question": "É obrigatório que uma Compra realizada no sistema ConnectPlug esteja atrelada a um Pedido de Compra?",
         "options": [
-            "PDV instalado em dispositivos portáteis, como tablets e smartphones",
-            "Um sistema PDV que funciona em locais públicos",
-            "Um ponto de venda temporário",
-            "Uma funcionalidade que imprime notas fiscais automaticamente"
+            "Sim, sempre.",
+            "Não, é opcional.",
+            "Apenas para produtos com data de validade.",
+            "Somente se o valor for superior a um limite."
         ],
-        "correct_answer": "PDV instalado em dispositivos portáteis, como tablets e smartphones",
+        "correct_answer": "Não, é opcional.",
         "answered": false,
-        "category": "PDV"
+        "category": "Compras"
     },
     {
-        "question": "O que acontece quando o sistema PDV é utilizado sem integração com o estoque?",
+        "question": "Para que tipo de produto a marcação 'Tipo Insumo' deve ser especificada como 'Sim' na ConnectPlug?",
         "options": [
-            "Pode haver inconsistência de dados entre vendas e estoque",
-            "Aumenta a eficiência da empresa",
-            "Diminui a quantidade de relatórios gerados",
-            "O sistema não funciona"
+            "Para produtos que são vendidos sem nenhum processo de produção.",
+            "Para produtos que são utilizados em um Processo Produtivo ou Produção Automática.",
+            "Para produtos que possuem data de validade.",
+            "Para produtos com custo fixo que não sofrerão alteração de custo."
         ],
-        "correct_answer": "Pode haver inconsistência de dados entre vendas e estoque",
+        "correct_answer": "Para produtos que são utilizados em um Processo Produtivo ou Produção Automática.",
         "answered": false,
-        "category": "PDV"
+        "category": "Produtos"
     },
     {
-        "question": "Quais são as formas de pagamento mais comuns processadas pelo PDV?",
+        "question": "Como as subcategorias devem ser informadas em uma planilha para importação de produtos no ConnectPlug?",
         "options": [
-            "Cartão de crédito, débito e dinheiro",
-            "Cheque e crédito consignado",
-            "Pix e Bitcoin",
-            "Trocas e devoluções"
+            "Em uma coluna separada para subcategorias.",
+            "Utilizando ponto e vírgula para separar a categoria da subcategoria na mesma coluna.",
+            "Utilizando vírgula (,) para separar a categoria da subcategoria dentro da coluna de categoria.",
+            "Não é possível importar subcategorias via planilha."
         ],
-        "correct_answer": "Cartão de crédito, débito e dinheiro",
+        "correct_answer": "Utilizando vírgula (,) para separar a categoria da subcategoria dentro da coluna de categoria.",
         "answered": false,
-        "category": "PDV"
+        "category": "Produtos"
     },
     {
-        "question": "Posso agendar dois pedidos da mesma empresa, no mesmo dia pelo delivery manual?",
+        "question": "Se uma empresa possui produtos compartilhados entre matriz e filial e zera o estoque dos produtos da filial, o que acontece com o estoque da matriz?",
         "options": [
-            "Não",
-            "Sim",
-            "Depende, eu vou ter que pagar?",
-            "Não é possivel agendar dois pedidos da mesma empresa no mesmo dia, deve ser duplicidade"
+            "O estoque da matriz também é zerado automaticamente.",
+            "O estoque da matriz não é impactado.",
+            "O estoque da matriz é ajustado proporcionalmente.",
+            "O sistema emite um alerta para a matriz."
         ],
-        "correct_answer": "Sim",
+        "correct_answer": "O estoque da matriz não é impactado.",
         "answered": false,
-        "category": "PDV"
+        "category": "Estoque"
     },
     {
-        "question": "Consigo acompanhar a rota de entraga do motoboy pela janela 'Pedidos Delivery'?",
+        "question": "É possível utilizar um leitor de código de barras para localizar produtos no ERP da ConnectPlug?",
         "options": [
-            "Não é possivel",
-            "Sim, inclusive com nome e idade do motoboy",
-            "Só é possivel se for integrado o PDV com Ifood",
-            "Só é possivel se for integrado com o Delivery Direto e ter Relatórios Dinâmico no plano",
-            "Apenas se for no estado do Amazonas"
+            "Não, apenas no PDV.",
+            "Sim, a mesma funcionalidade de leitura de código de barras usada no PDV também pode ser utilizada no ERP.",
+            "Apenas para produtos importados.",
+            "Somente para produtos com atributo de cor."
         ],
-        "correct_answer": "Não é possivel",
-        "answered": false,
-        "category": "PDV"
-    }, 
-    {
-        "question": "Consigo fazer importação de clientes no PDV?",
-        "options": [
-            "Sim",
-            "Não"
-        ],
-        "correct_answer": "Não",
-        "answered": false,
-        "category": "PDV"
-    }, 
-    {
-        "question": "É possivel gerenciar o financeiro (contas a pagar e receber) no PDV?",
-        "options": [
-            "Sim",
-            "Não",
-            "Sim, mas tem que adicionar no plano o módulo chamado 'gestão financeira PDV'"
-        ],
-        "correct_answer": "Não",
-        "answered": false,
-        "category": "PDV"
-    }, 
-    {
-        "question": "É possivel gerenciar o financeiro (contas a pagar e receber) no PDV?",
-        "options": [
-            "Sim",
-            "Não",
-            "Sim, mas tem que adicionar no plano o módulo chamado 'gestão financeira PDV'"
-        ],
-        "correct_answer": "Não",
-        "answered": false,
-        "category": "PDV"
-    }, 
-    {
-        "question": "Sobre fechamento de caixa, é CORRETO afirmar que:",
-        "options": [
-            "Registra todas as vendas do dia, incluindo as oriundas de integrações, como Ifood, AnotaAI, AiqFome e Tray",
-            "Registra Apenas a vendas realizadas no Dinheiro e Cartão.",
-            "Registra apenas fechamento de caixa às cegas",
-            "Se fechar o programa PDV antes de fechar o Caixa, perde-se as vendas",
-            "Registra todas as vendas do dias passadas pelo PDV, independente da forma de pagamento",
-            "É possivel fazer fechamento de caixa na SmartPOS"
-        ],
-        "correct_answer": "Registra todas as vendas do dias passadas pelo PDV, independente da forma de pagamento",
-        "answered": false,
-        "category": "PDV"
-    }, 
-    {
-        "question": "Consigo fazer importação de clientes no ERP?",
-        "options": [
-            "Sim",
-            "Não"
-        ],
-        "correct_answer": "Sim",
+        "correct_answer": "Sim, a mesma funcionalidade de leitura de código de barras usada no PDV também pode ser utilizada no ERP.",
         "answered": false,
         "category": "ERP"
-    }, 
-    
+    },
     {
-        "question": "O que é controle de estoque?",
+        "question": "No controle de estoque da ConnectPlug, qual critério é utilizado para dar baixa em produtos de lotes, durante uma venda?",
         "options": [
-            "O processo de gerenciar a quantidade de produtos disponíveis",
-            "O sistema de pagamento de produtos",
-            "A organização de clientes na loja",
-            "A contagem de dinheiro no caixa"
+            "Os produtos dos lotes mais recentes são priorizados.",
+            "Os produtos dos lotes mais antigos são dados baixa de maneira prioritária.",
+            "Os produtos com maior custo são priorizados.",
+            "A escolha do lote é feita manualmente pelo operador."
         ],
-        "correct_answer": "O processo de gerenciar a quantidade de produtos disponíveis",
+        "correct_answer": "Os produtos dos lotes mais antigos são dados baixa de maneira prioritária.",
         "answered": false,
         "category": "Estoque"
     },
     {
-        "question": "Por que o controle de estoque é importante para uma empresa?",
+        "question": "É possível desfazer uma Atualização em Lote de produtos no sistema ConnectPlug?",
         "options": [
-            "Para evitar a falta de produtos e reduzir custos com armazenagem",
-            "Para aumentar o número de funcionários",
-            "Para gerar mais relatórios financeiros",
-            "Para verificar a qualidade dos produtos"
+            "Sim, a qualquer momento.",
+            "Não, após a confirmação da Atualização ela não pode ser desfeita.",
+            "Apenas dentro de 24 horas.",
+            "Somente com a ajuda do suporte técnico."
         ],
-        "correct_answer": "Para evitar a falta de produtos e reduzir custos com armazenagem",
+        "correct_answer": "Não, após a confirmação da Atualização ela não pode ser desfeita.",
         "answered": false,
         "category": "Estoque"
     },
     {
-        "question": "Qual é o impacto de um controle de estoque eficiente nas finanças da empresa?",
+        "question": "É necessário preencher o campo 'Código (SKU)' ao importar produtos via planilha para o ConnectPlug?",
         "options": [
-            "Reduz custos com excessos e faltas de produtos",
-            "Aumenta o número de vendas automaticamente",
-            "Evita problemas com clientes",
-            "Diminui o fluxo de caixa"
+            "Sim, é obrigatório para todos os produtos.",
+            "Não, o sistema preencherá automaticamente.",
+            "Apenas para produtos com variações.",
+            "Somente se o produto já tiver um código existente."
         ],
-        "correct_answer": "Reduz custos com excessos e faltas de produtos",
+        "correct_answer": "Não, o sistema preencherá automaticamente.",
         "answered": false,
-        "category": "Estoque"
+        "category": "Produtos"
     },
     {
-        "question": "Qual é a diferença entre estoque de segurança e estoque mínimo?",
+        "question": "Antes de importar produtos via planilha para o sistema ConnectPlug, qual condição deve ser atendida em relação às categorias?",
         "options": [
-            "Estoque de segurança é o volume extra para imprevistos, enquanto o estoque mínimo é o volume necessário para operação",
-            "Estoque de segurança é o necessário para venda e o estoque mínimo é para reposição",
-            "Ambos são a mesma coisa",
-            "Estoque mínimo é o volume extra, enquanto o estoque de segurança é o volume de operação"
+            "As categorias são criadas automaticamente durante a importação.",
+            "As categorias informadas na planilha devem ser cadastradas no sistema previamente.",
+            "As categorias devem ser definidas apenas após a importação.",
+            "Não é necessário ter categorias."
         ],
-        "correct_answer": "Estoque de segurança é o volume extra para imprevistos, enquanto o estoque mínimo é o volume necessário para operação",
+        "correct_answer": "As categorias informadas na planilha devem ser cadastradas no sistema previamente.",
         "answered": false,
-        "category": "Estoque"
+        "category": "Produtos"
     },
     {
-        "question": "O que é o giro de estoque?",
+        "question": "Qual a principal finalidade da funcionalidade 'Lista de Preços' no ConnectPlug?",
         "options": [
-            "A quantidade de vezes que o estoque é renovado em um período",
-            "O número de produtos recebidos por dia",
-            "O lucro obtido com as vendas",
-            "A quantidade de vendas em um mês"
+            "Calcular o custo de frete dos produtos.",
+            "Definir promoções para cupons de desconto.",
+            "Trabalhar com valores distintos de venda para a mesma mercadoria em módulos diferenciados.",
+            "Controlar o estoque em tempo real."
         ],
-        "correct_answer": "A quantidade de vezes que o estoque é renovado em um período",
+        "correct_answer": "Trabalhar com valores distintos de venda para a mesma mercadoria em módulos diferenciados.",
         "answered": false,
-        "category": "Estoque"
+        "category": "Preços"
     },
     {
-        "question": "Como o controle de estoque ajuda a evitar o desperdício de produtos?",
+        "question": "As alterações de preços feitas via Lista de Preços no ConnectPlug podem ser revertidas?",
         "options": [
-            "Monitora a data de validade e evita a compra excessiva",
-            "Aumenta o preço dos produtos",
-            "Controla a entrada de clientes",
-            "Diminui a quantidade de produtos vendidos"
+            "Sim, sempre.",
+            "Não, após salvar as alterações não será possível reverter os valores aplicados.",
+            "Apenas por um período de 7 dias.",
+            "Somente se o usuário tiver permissão de administrador."
         ],
-        "correct_answer": "Monitora a data de validade e evita a compra excessiva",
+        "correct_answer": "Não, após salvar as alterações não será possível reverter os valores aplicados.",
         "answered": false,
-        "category": "Estoque"
+        "category": "Preços"
     },
     {
-        "question": "O que é inventário periódico no controle de estoque?",
+        "question": "Se um produto possui atributos na Lista de Preços, é possível utilizar valores de atacado?",
         "options": [
-            "A contagem manual dos produtos em um intervalo regular",
-            "A compra de novos produtos a cada período",
-            "O processo de devolução de produtos",
-            "A venda de produtos excedentes"
+            "Sim, para todos os tipos de atributos.",
+            "Não há possibilidade de trabalhar com valor atacado em produtos que possuam atributos na lista de preço.",
+            "Apenas para atributos de tamanho.",
+            "Somente se a quantidade mínima for atingida."
         ],
-        "correct_answer": "A contagem manual dos produtos em um intervalo regular",
+        "correct_answer": "Não há possibilidade de trabalhar com valor atacado em produtos que possuam atributos na lista de preço.",
         "answered": false,
-        "category": "Estoque"
+        "category": "Preços"
     },
     {
-        "question": "Como um software de controle de estoque pode ajudar uma empresa?",
+        "question": "Na ConnectPlug, se a marcação 'Perecível' for definida como 'Sim' para um produto, o que isso implica?",
         "options": [
-            "Automatiza o processo de gestão de produtos, facilita reposição e melhora a previsão de demanda",
-            "Aumenta o número de produtos no estoque",
-            "Reduz a quantidade de funcionários necessários",
-            "Melhora a comunicação com os clientes"
+            "O produto não poderá ser vendido após uma data específica.",
+            "Uma data de validade será especificada no momento da entrada do produto no Estoque, apenas para visualização.",
+            "O produto terá seu custo fixo, sem alterações.",
+            "O produto será automaticamente excluído do estoque após a data de validade."
         ],
-        "correct_answer": "Automatiza o processo de gestão de produtos, facilita reposição e melhora a previsão de demanda",
+        "correct_answer": "Uma data de validade será especificada no momento da entrada do produto no Estoque, apenas para visualização.",
         "answered": false,
-        "category": "Estoque"
+        "category": "Produtos"
     },
     {
-        "question": "O que é a curva ABC no controle de estoque?",
+        "question": "O que caracteriza um produto do tipo 'Simples' no sistema ConnectPlug?",
         "options": [
-            "É uma técnica que classifica os produtos em três categorias conforme sua importância",
-            "É uma metodologia de compra de produtos",
-            "É o processo de avaliação de fornecedores",
-            "É uma forma de distribuir os produtos na loja"
+            "É um produto com múltiplos componentes associados.",
+            "É um produto que possui outros produtos em sua composição.",
+            "É um produto que é produzido no momento da venda.",
+            "É um produto sem componentes associados a ele, vendido sem processo de produção."
         ],
-        "correct_answer": "É uma técnica que classifica os produtos em três categorias conforme sua importância",
+        "correct_answer": "É um produto sem componentes associados a ele, vendido sem processo de produção.",
         "answered": false,
-        "category": "Estoque"
+        "category": "Produtos"
     },
     {
-        "question": "Quais são os principais desafios de um controle de estoque manual?",
+        "question": "Qual a definição de um produto do tipo 'Combo' no sistema ConnectPlug?",
         "options": [
-            "Falta de precisão e maior risco de erros humanos",
-            "Aumento de vendas e lucro",
-            "Automação dos processos de venda",
-            "Maior satisfação dos clientes"
+            "Um produto sem componentes associados.",
+            "Um produto que possui outros produtos em sua composição.",
+            "Um produto que é produzido sob demanda.",
+            "Um produto que só pode ser vendido em atacado."
         ],
-        "correct_answer": "Falta de precisão e maior risco de erros humanos",
+        "correct_answer": "Um produto que possui outros produtos em sua composição.",
         "answered": false,
-        "category": "Estoque"
+        "category": "Produtos"
     },
     {
-        "question": "Qual é o papel do controle de estoque na prevenção de rupturas?",
+        "question": "O que é um produto do tipo 'Processo Produtivo' na ConnectPlug?",
         "options": [
-            "Garante que os produtos estejam disponíveis para evitar a perda de vendas",
-            "Verifica a qualidade dos produtos vendidos",
-            "Diminui os preços dos produtos",
-            "Aumenta a produção dos produtos"
+            "Um produto que o estabelecimento produz de maneira prévia e é armazenado para uso futuro.",
+            "Um produto que é montado apenas no momento da venda.",
+            "Um produto que não pode ser estocado.",
+            "Um produto que não possui custo."
         ],
-        "correct_answer": "Garante que os produtos estejam disponíveis para evitar a perda de vendas",
+        "correct_answer": "Um produto que o estabelecimento produz de maneira prévia e é armazenado para uso futuro.",
         "answered": false,
-        "category": "Estoque"
+        "category": "Produtos"
     },
     {
-        "question": "O que é um estoque obsoleto?",
+        "question": "Quando um produto do tipo 'Produção Automática' é produzido no sistema ConnectPlug?",
         "options": [
-            "Produtos que não têm mais demanda ou estão fora de validade",
-            "Produtos em alta demanda",
-            "Produtos com alta rotatividade",
-            "Produtos importados"
+            "Diariamente, ao final do expediente.",
+            "No momento em que o cliente final finaliza a venda do mesmo.",
+            "Apenas sob encomenda de grandes volumes.",
+            "Semanalmente, para manter o estoque."
         ],
-        "correct_answer": "Produtos que não têm mais demanda ou estão fora de validade",
+        "correct_answer": "No momento em que o cliente final finaliza a venda do mesmo.",
         "answered": false,
-        "category": "Estoque"
+        "category": "Produtos"
     },
     {
-        "question": "Qual é a relação entre controle de estoque e fluxo de caixa?",
+        "question": "Para que servem os 'Atributos' no cadastro de produtos da ConnectPlug?",
         "options": [
-            "Um controle de estoque eficiente reduz custos e melhora o fluxo de caixa",
-            "O estoque interfere diretamente no lucro dos funcionários",
-            "O estoque não tem impacto no fluxo de caixa",
-            "A compra de novos produtos reduz o estoque"
+            "Para definir o preço de venda do produto.",
+            "Para registrar a data de validade.",
+            "Para indicar variações ou opções de um mesmo produto, como tamanho ou cor.",
+            "Para especificar o fornecedor principal do produto."
         ],
-        "correct_answer": "Um controle de estoque eficiente reduz custos e melhora o fluxo de caixa",
+        "correct_answer": "Para indicar variações ou opções de um mesmo produto, como tamanho ou cor.",
         "answered": false,
-        "category": "Estoque"
+        "category": "Produtos"
     },
     {
-        "question": "Como o controle de estoque contribui para a satisfação do cliente?",
+        "question": "Qual o impacto no controle de estoque e financeiro ao criar uma Proposta de Venda no ConnectPlug?",
         "options": [
-            "Garante que os produtos desejados estejam sempre disponíveis",
-            "Reduz o preço dos produtos",
-            "Aumenta o número de promoções",
-            "Facilita o processo de pagamento"
+            "O produto é debitado do estoque e é gerado um contas a receber.",
+            "Não há saída do estoque do produto nem criação de movimentações financeiras.",
+            "Apenas o estoque é atualizado.",
+            "Apenas movimentações financeiras são criadas."
         ],
-        "correct_answer": "Garante que os produtos desejados estejam sempre disponíveis",
+        "correct_answer": "Não há saída do estoque do produto nem criação de movimentações financeiras.",
         "answered": false,
-        "category": "Estoque"
+        "category": "Vendas"
     },
     {
-        "question": "O que é controle de estoque integrado?",
+        "question": "Ao criar um Pedido de Venda no sistema ConnectPlug, qual o impacto imediato no estoque do produto?",
         "options": [
-            "Sistema que integra o estoque a outras áreas da empresa, como vendas e finanças",
-            "Processo de contar manualmente os produtos no estoque",
-            "Uma técnica de armazenagem de produtos perecíveis",
-            "O método de distribuição de produtos entre diferentes filiais"
+            "O produto é imediatamente debitado do estoque.",
+            "Não há saída do estoque do produto no momento da criação do pedido.",
+            "O estoque é atualizado em tempo real, mas apenas visualmente.",
+            "Apenas o custo do produto é registrado, sem impacto na quantidade física."
         ],
-        "correct_answer": "Sistema que integra o estoque a outras áreas da empresa, como vendas e finanças",
+        "correct_answer": "Não há saída do estoque do produto no momento da criação do pedido.",
         "answered": false,
-        "category": "Estoque"
+        "category": "Vendas"
     },
     {
-        "question": "Como o controle de estoque influencia nas compras da empresa?",
+        "question": "Em qual momento o produto é debitado do estoque e um contas a receber é gerado automaticamente no sistema ConnectPlug?",
         "options": [
-            "Ajuda a planejar reposições e evitar compras excessivas ou desnecessárias",
-            "Aumenta o custo com fornecedores",
-            "Reduz o número de funcionários no departamento de compras",
-            "Facilita a renegociação de preços com fornecedores"
+            "Ao criar uma Proposta de Venda.",
+            "Ao criar um Pedido de Compra.",
+            "Ao criar um Pedido de Venda.",
+            "No momento da realização da Venda."
         ],
-        "correct_answer": "Ajuda a planejar reposições e evitar compras excessivas ou desnecessárias",
+        "correct_answer": "No momento da realização da Venda.",
         "answered": false,
-        "category": "Estoque"
+        "category": "Vendas"
     },
     {
-        "question": "Qual é o impacto de um controle de estoque mal gerido?",
+        "question": "Qual modalidade de promoção no ConnectPlug é gratuita?",
         "options": [
-            "Perda de vendas, aumento de custos e risco de desperdício",
-            "Aumento do número de funcionários",
-            "Maior satisfação dos clientes",
-            "Redução da quantidade de produtos"
+            "Leve + Pague -.",
+            "Cupom de Desconto.",
+            "Valor dos Produtos.",
+            "Quantidade de Produtos."
         ],
-        "correct_answer": "Perda de vendas, aumento de custos e risco de desperdício",
+        "correct_answer": "Cupom de Desconto.",
         "answered": false,
-        "category": "Estoque"
+        "category": "Marketing"
     },
     {
-        "question": "Quais são os principais indicadores de desempenho no controle de estoque?",
+        "question": "Na criação de um Cupom de Desconto na ConnectPlug, qual opção permite gerar códigos como 'CUPOM_PROMO1', 'CUPOM_PROMO2', etc.?",
         "options": [
-            "Giro de estoque, cobertura de estoque e ruptura de estoque",
-            "Vendas diárias, lucro líquido e número de devoluções",
-            "Quantidade de produtos em promoção, número de clientes e fluxo de caixa",
-            "Nível de satisfação do cliente, vendas anuais e fluxo de vendas"
+            "Adicionar Código Aleatório.",
+            "Adicionar Código Sequencial.",
+            "Gerar Cupom Único.",
+            "Replicar Cupom Existente."
         ],
-        "correct_answer": "Giro de estoque, cobertura de estoque e ruptura de estoque",
+        "correct_answer": "Adicionar Código Sequencial.",
         "answered": false,
-        "category": "Estoque"
-    },
-
-        {
-        "question": "O que é fluxo de caixa?",
-        "options": [
-            "A diferença entre entradas e saídas de recursos financeiros em um período",
-            "O valor total de vendas realizado em um mês",
-            "O saldo bancário da empresa",
-            "A quantidade de produtos vendidos"
-        ],
-        "correct_answer": "A diferença entre entradas e saídas de recursos financeiros em um período",
-        "answered": false,
-        "category": "Financeiro"
+        "category": "Marketing"
     },
     {
-        "question": "Qual é a importância de um fluxo de caixa projetado para uma empresa?",
+        "question": "Quantos créditos de SMS e E-MAIL MARKETING são inicialmente liberados ao contratar o módulo de Marketing da ConnectPlug, e qual a sua natureza?",
         "options": [
-            "Permite prever necessidades de capital e evitar falta de recursos",
-            "Aumenta automaticamente o lucro da empresa",
-            "Garante que a empresa pague menos impostos",
-            "Facilita o aumento de preços dos produtos"
+            "100 créditos para cada modalidade, não renováveis.",
+            "250 créditos para cada modalidade, renováveis mensalmente e acumulativos.",
+            "500 créditos totais, divididos entre SMS e E-mail, não acumulativos.",
+            "Créditos ilimitados por um período de teste."
         ],
-        "correct_answer": "Permite prever necessidades de capital e evitar falta de recursos",
+        "correct_answer": "250 créditos para cada modalidade, renováveis mensalmente e acumulativos.",
         "answered": false,
-        "category": "Financeiro"
+        "category": "Marketing"
     },
     {
-        "question": "Como o controle de contas a pagar e a receber impacta na saúde financeira da empresa?",
+        "question": "Qual a principal razão para a integração entre ConnectPlug e Bling, considerando que Bling é um ERP online?",
         "options": [
-            "Ajuda a manter o equilíbrio financeiro, evitando dívidas e inadimplência",
-            "Aumenta o número de clientes",
-            "Reduz o número de funcionários no departamento financeiro",
-            "Melhora a qualidade dos produtos"
+            "Para o Bling controlar o fluxo de caixa da ConnectPlug.",
+            "Para o Bling ter um PDV offline, o que ele não possui.",
+            "Para a ConnectPlug gerenciar os clientes do Bling.",
+            "Para o Bling enviar emails de marketing aos clientes da ConnectPlug."
         ],
-        "correct_answer": "Ajuda a manter o equilíbrio financeiro, evitando dívidas e inadimplência",
+        "correct_answer": "Para o Bling ter um PDV offline, o que ele não possui.",
         "answered": false,
-        "category": "Financeiro"
+        "category": "Integração"
     },
     {
-        "question": "Qual é a função do Demonstrativo de Resultados (DRE)?",
+        "question": "Na sincronização de produtos da integração Bling-ConnectPlug, qual plataforma é a **origem** dos dados?",
         "options": [
-            "Mostrar as receitas, custos e despesas da empresa em determinado período",
-            "Monitorar o estoque de produtos",
-            "Analisar a qualidade dos serviços prestados",
-            "Verificar o número de funcionários contratados"
+            "ConnectPlug.",
+            "Bling.",
+            "Ambas compartilham a origem.",
+            "Nenhuma das duas, a origem é manual."
         ],
-        "correct_answer": "Mostrar as receitas, custos e despesas da empresa em determinado período",
+        "correct_answer": "Bling.",
         "answered": false,
-        "category": "Financeiro"
+        "category": "Integração"
     },
     {
-        "question": "O que significa capital de giro?",
+        "question": "Na sincronização de vendas da integração Bling-ConnectPlug, qual plataforma é a **origem** das vendas?",
         "options": [
-            "O montante de recursos necessários para manter as operações diárias da empresa",
-            "O valor que a empresa tem em estoque",
-            "O lucro obtido ao final do ano",
-            "O dinheiro utilizado para investir em marketing"
+            "Bling.",
+            "ConnectPlug.",
+            "Apenas o PDV offline.",
+            "Um sistema terceiro."
         ],
-        "correct_answer": "O montante de recursos necessários para manter as operações diárias da empresa",
+        "correct_answer": "ConnectPlug.",
         "answered": false,
-        "category": "Financeiro"
+        "category": "Integração"
     },
     {
-        "question": "Como o uso de um sistema de gestão financeira pode ajudar uma empresa?",
+        "question": "No cenário de integração com o Bling, qual plataforma é responsável pelo controle de estoque?",
         "options": [
-            "Automatiza processos, melhora a gestão de recursos e facilita a tomada de decisão",
-            "Aumenta a produção de produtos",
-            "Reduz o número de funcionários",
-            "Garante um aumento de lucro imediato"
+            "A ConnectPlug é responsável pelo controle de estoque.",
+            "O Bling é exclusivamente responsável pelo controle de estoque.",
+            "Ambas as plataformas compartilham o controle de estoque.",
+            "Nenhuma das plataformas controla o estoque, é um processo manual."
         ],
-        "correct_answer": "Automatiza processos, melhora a gestão de recursos e facilita a tomada de decisão",
+        "correct_answer": "O Bling é exclusivamente responsável pelo controle de estoque.",
         "answered": false,
-        "category": "Financeiro"
+        "category": "Integração"
     },
     {
-        "question": "O que é conciliação bancária?",
+        "question": "Os métodos de pagamento são sincronizados automaticamente na integração Bling-ConnectPlug?",
         "options": [
-            "O processo de comparar os registros financeiros da empresa com os extratos bancários",
-            "A emissão de notas fiscais",
-            "O fechamento do caixa ao final do dia",
-            "O cálculo do lucro bruto"
+            "Sim, são sincronizados automaticamente.",
+            "Não, é necessário realizar um 'DE-PARA' vinculando-os manualmente.",
+            "Apenas métodos de cartão de crédito.",
+            "Somente se forem os mesmos nomes em ambas plataformas."
         ],
-        "correct_answer": "O processo de comparar os registros financeiros da empresa com os extratos bancários",
+        "correct_answer": "Não, é necessário realizar um 'DE-PARA' vinculando-os manualmente.",
         "answered": false,
-        "category": "Financeiro"
+        "category": "Integração"
     },
     {
-        "question": "Por que é importante realizar a conciliação bancária regularmente?",
+        "question": "É necessária a contratação do módulo API ou de algum módulo exclusivo da ConnectPlug para utilizar a integração com o Bling?",
         "options": [
-            "Para identificar divergências e garantir que as finanças estejam corretas",
-            "Para aumentar o saldo bancário da empresa",
-            "Para calcular a folha de pagamento",
-            "Para reduzir o número de fornecedores"
+            "Sim, o módulo API é obrigatório.",
+            "Não, não há exigência do módulo API ou de algum módulo exclusivo, apenas GRADE DE PRODUTOS se houver.",
+            "Sim, é necessário um módulo de integração específico.",
+            "Apenas se o cliente possuir mais de uma loja."
         ],
-        "correct_answer": "Para identificar divergências e garantir que as finanças estejam corretas",
+        "correct_answer": "Não, não há exigência do módulo API ou de algum módulo exclusivo, apenas GRADE DE PRODUTOS se houver.",
         "answered": false,
-        "category": "Financeiro"
+        "category": "Integração"
     },
     {
-        "question": "Como um sistema de controle financeiro ajuda na gestão de múltiplas contas bancárias?",
+        "question": "É possível utilizar TEF (Transferência Eletrônica de Fundos) no PDV da ConnectPlug e ainda assim usar a integração com Bling?",
         "options": [
-            "Facilita o acompanhamento de saldos e movimentações em diferentes bancos",
-            "Aumenta o valor disponível em cada conta",
-            "Reduz o custo de manutenção de contas",
-            "Diminui a necessidade de auditorias externas"
+            "Não, TEF não é compatível com a integração Bling.",
+            "Sim, qualquer módulo aplicável ao PDV pode ser usado.",
+            "Apenas para transações acima de um certo valor.",
+            "Somente com permissão especial."
         ],
-        "correct_answer": "Facilita o acompanhamento de saldos e movimentações em diferentes bancos",
+        "correct_answer": "Sim, qualquer módulo aplicável ao PDV pode ser usado.",
         "answered": false,
-        "category": "Financeiro"
+        "category": "Integração"
     },
     {
-        "question": "O que é o Demonstrativo de Fluxo de Caixa (DFC)?",
+        "question": "As vendas originadas no Bling sobem automaticamente para o ERP ConnectPlug na integração?",
         "options": [
-            "Um relatório que mostra todas as entradas e saídas de dinheiro de uma empresa em um período",
-            "Um documento que detalha as metas de vendas de uma empresa",
-            "Um registro de todas as compras de materiais de escritório",
-            "Uma análise do estoque de produtos perecíveis"
+            "Sim, todas as vendas são sincronizadas.",
+            "Não, a integração faz com que as vendas originadas no PDV CPLUG subam para o Bling.",
+            "Apenas vendas de e-commerce.",
+            "Somente se forem vendas com NF-e."
         ],
-        "correct_answer": "Um relatório que mostra todas as entradas e saídas de dinheiro de uma empresa em um período",
+        "correct_answer": "Não, a integração faz com que as vendas originadas no PDV CPLUG subam para o Bling.",
         "answered": false,
-        "category": "Financeiro"
-    }
-    
-    
+        "category": "Integração"
+    },
+    {
+        "question": "É possível utilizar o módulo 'Atualização em Tempo Real' no PDV 2.0 em um cenário de integração com o Bling?",
+        "options": [
+            "Sim, para garantir o estoque sempre atualizado.",
+            "Não, pois o controle de estoque é gerenciado pelo Bling.",
+            "Apenas para produtos do tipo serviço.",
+            "Somente se o PDV estiver offline."
+        ],
+        "correct_answer": "Não, pois o controle de estoque é gerenciado pelo Bling.",
+        "answered": false,
+        "category": "Integração"
+    },
+    {
+        "question": "O módulo de Ordem de Serviço (OS) da ConnectPlug é gratuito ou pago?",
+        "options": [
+            "Gratuito.",
+            "Pago.",
+            "Pago apenas para grandes empresas.",
+            "Gratuito para o primeiro ano."
+        ],
+        "correct_answer": "Pago.",
+        "answered": false,
+        "category": "Serviços"
+    },
+    {
+        "question": "É possível utilizar recursos da Ordem de Serviço (OS) no PDV 2.0 da ConnectPlug?",
+        "options": [
+            "Sim, todos os recursos estão disponíveis.",
+            "Apenas para visualização de OS.",
+            "Não, todos os recursos relacionados a OS só estão disponíveis no ERP.",
+            "Somente com uma integração adicional."
+        ],
+        "correct_answer": "Não, todos os recursos relacionados a OS só estão disponíveis no ERP.",
+        "answered": false,
+        "category": "Serviços"
+    },
+    {
+        "question": "Se um estabelecimento apenas realiza serviços e não vende produtos, é necessário cadastrar os produtos que serão utilizados nas Ordens de Serviço?",
+        "options": [
+            "Não, apenas serviços precisam ser cadastrados.",
+            "Sim, os produtos precisam ser cadastrados com a marcação 'Disponível para Venda'.",
+            "Somente produtos com custo fixo.",
+            "Apenas produtos com data de validade."
+        ],
+        "correct_answer": "Sim, os produtos precisam ser cadastrados com a marcação 'Disponível para Venda'.",
+        "answered": false,
+        "category": "Serviços"
+    },
+    {
+        "question": "O módulo de Contratos de Venda da ConnectPlug é gratuito ou pago?",
+        "options": [
+            "Gratuito.",
+            "Pago.",
+            "Gratuito apenas para MEIs.",
+            "Pago apenas para contratos anuais."
+        ],
+        "correct_answer": "Gratuito.",
+        "answered": false,
+        "category": "Serviços"
+    },
+    {
+        "question": "É possível excluir o cliente 'Consumidor Final - Padrão' do sistema ConnectPlug?",
+        "options": [
+            "Sim, a qualquer momento.",
+            "Não, ele é usado no PDV 2.0 em Vendas Balcão sem a identificação de um cliente cadastrado.",
+            "Apenas se não houver vendas associadas a ele.",
+            "Somente com permissão de administrador."
+        ],
+        "correct_answer": "Não, ele é usado no PDV 2.0 em Vendas Balcão sem a identificação de um cliente cadastrado.",
+        "answered": false,
+        "category": "Clientes"
+    },
+    {
+        "question": "O módulo de Reservas da ConnectPlug permite que o cliente final visualize a agenda e faça reservas diretamente?",
+        "options": [
+            "Sim, é uma funcionalidade para o cliente final.",
+            "Não, o Módulo de Reservas é de uso interno para Gestão do Estabelecimento.",
+            "Apenas com uma integração extra.",
+            "Somente para reservas de grandes eventos."
+        ],
+        "correct_answer": "Não, o Módulo de Reservas é de uso interno para Gestão do Estabelecimento.",
+        "answered": false,
+        "category": "Reservas"
+    },
+{
+    "question": "Qual é a **versão mínima do Android** exigida para todos os aplicativos da ConnectPlug (PDV Android, Atendimento de Mesas, Cardápio Digital e Autoatendimento)?",
+    "options": [
+      "4.4.4",
+      "5.0.0",
+      "5.5.5",
+      "6.0.0"
+    ],
+    "correct_answer": "5.5.5",
+    "answered": false,
+    "category": "Aplicativos e Dispositivos Android"
+  },
+  {
+    "question": "Quais foram as funcionalidades importantes homologadas na **nova versão do aplicativo PDV Android**, disponibilizada via APK em 13/05/25?",
+    "options": [
+      "Integração com novos leitores de código de barras e pagamentos NFC.",
+      "Homologação com a impressora do M10 PRO e novas regras fiscais no Rio Grande do Sul.",
+      "Suporte para múltiplos usuários e relatórios de vendas avançados.",
+      "Compatibilidade com impressoras térmicas Wi-Fi e sincronização em nuvem aprimorada."
+    ],
+    "correct_answer": "Homologação com a impressora do M10 PRO e novas regras fiscais no Rio Grande do Sul.",
+    "answered": false,
+    "category": "Aplicativos e Dispositivos Android"
+  },
+  {
+    "question": "Qual é a observação importante sobre a **bateria do PinPad MP15 da Gertec**, que se conecta via Bluetooth?",
+    "options": [
+      "Possui longa autonomia e não necessita de carregamento constante.",
+      "Requer conexão USB para transferência de dados, mas a bateria dura muito.",
+      "Necessário manter o PinPad conectado na USB carregando devido à baixa autonomia da bateria.",
+      "A bateria é recarregável via solar."
+    ],
+    "correct_answer": "Necessário manter o PinPad conectado na USB carregando devido à baixa autonomia da bateria.",
+    "answered": false,
+    "category": "Aplicativos e Dispositivos Android"
+  },
+  {
+    "question": "Qual a principal diferença entre os modelos '**WW TINKER BOARD**' (novo) e '**S BOARD TINKER**' (velho) da Mini CPU da ConnectPlug para Autoatendimento?",
+    "options": [
+      "O modelo novo tem mais memória RAM, enquanto o velho não tem.",
+      "O modelo novo não tem adaptador Wi-Fi acoplado, exigindo cabo de rede, enquanto o velho tinha Wi-Fi.",
+      "O modelo velho é mais caro que o novo.",
+      "O modelo novo é exclusivo para tablets."
+    ],
+    "correct_answer": "O modelo novo não tem adaptador Wi-Fi acoplado, exigindo cabo de rede, enquanto o velho tinha Wi-Fi.",
+    "answered": false,
+    "category": "Aplicativos e Dispositivos Android"
+  },
+  {
+    "question": "Para a operação de autoatendimento com a **Mini CPU da ConnectPlug**, qual o tamanho de tela e proporção recomendados para o monitor touchscreen?",
+    "options": [
+      "15 polegadas, 4:3.",
+      "21 polegadas, 16:10.",
+      "24 polegadas, 16:9.",
+      "27 polegadas, 21:9."
+    ],
+    "correct_answer": "24 polegadas, 16:9.",
+    "answered": false,
+    "category": "Aplicativos e Dispositivos Android"
+  },
+  {
+    "question": "Em termos de autenticação, qual é a principal diferença entre a 'API Atual' e a 'API Nova (3.0)' da ConnectPlug?",
+    "options": [
+      "A API Atual utiliza Client ID e Secret, enquanto a Nova usa apenas usuário e senha da loja.",
+      "A API Nova exige Client ID + Secret + usuário e senha da loja, o que não era feito na API Atual.",
+      "Ambas as APIs utilizam o mesmo método de autenticação, mas a Nova é mais rápida.",
+      "A API Atual não possui autenticação, apenas a Nova."
+    ],
+    "correct_answer": "A API Nova exige Client ID + Secret + usuário e senha da loja, o que não era feito na API Atual.",
+    "answered": false,
+    "category": "API ConnectPlug"
+  },
+  {
+    "question": "Qual é o primeiro passo para solicitar a liberação do uso da '**API Nova (3.0)**' da ConnectPlug?",
+    "options": [
+      "Enviar um e-mail diretamente para o time de Produtos da ConnectPlug.",
+      "Abrir um chamado no Movidesk destinado ao N2, utilizando uma macro específica.",
+      "Preencher um formulário online no site da ConnectPlug.",
+      "Contratar o serviço de um integrador parceiro."
+    ],
+    "correct_answer": "Abrir um chamado no Movidesk destinado ao N2, utilizando uma macro específica.",
+    "answered": false,
+    "category": "API ConnectPlug"
+  },
+  {
+    "question": "De acordo com as funcionalidades da 'API Atual' da ConnectPlug, o que ela permite realizar em relação às '**Formas de Pagamento**'?",
+    "options": [
+      "Cadastrar novas formas de pagamento e alterá-las.",
+      "Consultar todas as formas de pagamento disponíveis no sistema.",
+      "Excluir formas de pagamento antigas.",
+      "Sincronizar formas de pagamento com outras plataformas."
+    ],
+    "correct_answer": "Consultar todas as formas de pagamento disponíveis no sistema.",
+    "answered": false,
+    "category": "API ConnectPlug"
+  },
+  {
+    "question": "Ao cadastrar um integrador para a '**API Nova (3.0)**', quais informações são necessárias, além do nome e CNPJ?",
+    "options": [
+      "Endereço comercial e número de funcionários.",
+      "E-mail de desenvolvimento e telefone.",
+      "Site da empresa e redes sociais.",
+      "Nome dos clientes que serão integrados."
+    ],
+    "correct_answer": "E-mail de desenvolvimento e telefone.",
+    "answered": false,
+    "category": "API ConnectPlug"
+  },
+  {
+    "question": "Qual a principal diferença entre um '**Pedido de Compra**' e uma '**Compra**' no sistema ConnectPlug em relação à **geração de lançamentos financeiros (Contas a Pagar/Boletos)**?",
+    "options": [
+      "Ambos geram Contas a Pagar imediatamente.",
+      "O Pedido de Compra gera o boleto, e a Compra dá baixa no estoque.",
+      "Somente após converter um Pedido de Compra em uma Compra é possível gerar Contas a Pagar.",
+      "Nenhum dos dois módulos gera lançamentos financeiros."
+    ],
+    "correct_answer": "Somente após converter um Pedido de Compra em uma Compra é possível gerar Contas a Pagar.",
+    "answered": false,
+    "category": "Módulo de Estoque"
+  },
+  {
+    "question": "Ao importar uma **NF-e de entrada via XML**, se o fornecedor não estiver cadastrado no sistema, qual ação é permitida em relação aos dados desse fornecedor?",
+    "options": [
+      "Os dados do fornecedor são automaticamente cadastrados sem opção de edição.",
+      "É possível editar os dados do fornecedor e cadastrá-lo.",
+      "Não é possível cadastrar o fornecedor, apenas conferir os dados.",
+      "A importação é bloqueada até que o fornecedor seja cadastrado manualmente."
+    ],
+    "correct_answer": "É possível editar os dados do fornecedor e cadastrá-lo.",
+    "answered": false,
+    "category": "Módulo de Estoque"
+  },
+  {
+    "question": "Quando um produto já cadastrado é identificado em uma **NF-e importada via XML**, quais informações podem ser alteradas/conferidas pelo usuário?",
+    "options": [
+      "Apenas o nome do produto.",
+      "Apenas o valor de venda.",
+      "Marcação de 'Disponível para venda', Código de Barras, Unidade de Medida e Fator de Conversão.",
+      "Nenhuma informação pode ser alterada."
+    ],
+    "correct_answer": "Marcação de 'Disponível para venda', Código de Barras, Unidade de Medida e Fator de Conversão.",
+    "answered": false,
+    "category": "Módulo de Estoque"
+  },
+  {
+    "question": "É possível **desfazer uma 'Atualização em Lote de Produtos'** após sua confirmação no sistema?",
+    "options": [
+      "Sim, a qualquer momento.",
+      "Sim, dentro de 24 horas.",
+      "Não, após a confirmação a atualização não pode ser desfeita.",
+      "Apenas se houver erro na importação."
+    ],
+    "correct_answer": "Não, após a confirmação a atualização não pode ser desfeita.",
+    "answered": false,
+    "category": "Módulo de Estoque"
+  },
+  {
+    "question": "O módulo '**Lista de Preços**' permite trabalhar com valores de atacado para produtos que possuem atributos?",
+    "options": [
+      "Sim, sem restrições.",
+      "Sim, mas apenas para um atributo por produto.",
+      "Não, não há possibilidade de trabalhar com valor atacado em produtos com atributos na lista de preço.",
+      "Apenas se o atributo for 'Simples'."
+    ],
+    "correct_answer": "Não, não há possibilidade de trabalhar com valor atacado em produtos com atributos na lista de preço.",
+    "answered": false,
+    "category": "Módulo de Estoque"
+  },
+  {
+    "question": "Qual tipo de produto deve ser utilizado como componente em um produto do tipo '**Produção Automática**'?",
+    "options": [
+      "Produtos do tipo 'Simples' ou 'Combo'.",
+      "Apenas produtos do tipo 'Serviço'.",
+      "Necessariamente produtos do tipo 'Insumo'.",
+      "Qualquer tipo de produto, desde que esteja no estoque."
+    ],
+    "correct_answer": "Necessariamente produtos do tipo 'Insumo'.",
+    "answered": false,
+    "category": "Módulo de Estoque"
+  },
+  {
+    "question": "No cadastro de produtos, ao ativar a opção 'Múltiplo' para 'Atributos', qual parâmetro de cobrança permite especificar variações gratuitas e pagas, como '3 adicionais sem custo e a partir do 4º os valores seriam aplicados'?",
+    "options": [
+      "Maior valor.",
+      "Média.",
+      "Acumulativo.",
+      "Cobrar a partir da quantidade."
+    ],
+    "correct_answer": "Cobrar a partir da quantidade.",
+    "answered": false,
+    "category": "Módulo de Estoque"
+  },
+  {
+    "question": "Qual a **sequência correta de eventos** que resulta na **baixa de estoque do produto** e na **criação de movimentações financeiras** no sistema ConnectPlug?",
+    "options": [
+      "Proposta -> Pedido -> Venda.",
+      "Pedido -> Proposta -> Venda.",
+      "Venda -> Pedido -> Proposta.",
+      "Proposta -> Venda -> Pedido."
+    ],
+    "correct_answer": "Proposta -> Pedido -> Venda.",
+    "answered": false,
+    "category": "Módulo de Vendas e CRM"
+  },
+  {
+    "question": "Qual modalidade de promoção oferecida pelo módulo de Promoções da ConnectPlug é **gratuita**?",
+    "options": [
+      "Leve + Pague -.",
+      "Cupom de Desconto.",
+      "Valor dos Produtos.",
+      "Quantidade de Produtos."
+    ],
+    "correct_answer": "Cupom de Desconto.",
+    "answered": false,
+    "category": "Módulo de Vendas e CRM"
+  },
+  {
+    "question": "Em quais ambientes de vendas as promoções do módulo de Promoções da ConnectPlug estão atualmente disponíveis para aplicação?",
+    "options": [
+      "Somente no ERP.",
+      "PDV 2 e Totem de Autoatendimento.",
+      "Apenas em plataformas de e-commerce integradas.",
+      "Somente em aplicativos móveis de atendimento de mesas."
+    ],
+    "correct_answer": "PDV 2 e Totem de Autoatendimento.",
+    "answered": false,
+    "category": "Módulo de Vendas e CRM"
+  },
+  {
+    "question": "Os créditos mensais de SMS e E-MAIL MARKETING liberados na contratação do Módulo de Marketing da ConnectPlug são acumulativos?",
+    "options": [
+      "Não, eles expiram ao final de cada mês.",
+      "Sim, os créditos não utilizados são acumulativos e renovados mensalmente.",
+      "Sim, mas apenas por três meses.",
+      "Apenas os créditos de SMS são acumulativos."
+    ],
+    "correct_answer": "Sim, os créditos não utilizados são acumulativos e renovados mensalmente.",
+    "answered": false,
+    "category": "Módulo de Vendas e CRM"
+  },
+  {
+    "question": "Quais tipos de filtros podem ser utilizados para direcionar o público-alvo em uma campanha de Marketing via SMS ou E-mail?",
+    "options": [
+      "Apenas idade e gênero dos clientes.",
+      "Idade, Gênero, Localização, Tipo de Produtos vendidos e Período de Vendas.",
+      "Somente clientes que fizeram compras nos últimos 30 dias.",
+      "Apenas clientes com programas de fidelidade ativos."
+    ],
+    "correct_answer": "Idade, Gênero, Localização, Tipo de Produtos vendidos e Período de Vendas.",
+    "answered": false,
+    "category": "Módulo de Vendas e CRM"
+  },
+  {
+    "question": "Em um cenário de integração com o Bling, qual plataforma é responsável pelo **controle de estoque**?",
+    "options": [
+      "A ConnectPlug.",
+      "O Bling.",
+      "Ambas as plataformas simultaneamente.",
+      "Nenhuma delas."
+    ],
+    "correct_answer": "O Bling.",
+    "answered": false,
+    "category": "Integração Bling"
+  },
+  {
+    "question": "No processo de sincronização da integração Bling-ConnectPlug, como é feita a **sincronização de clientes**?",
+    "options": [
+      "Clientes cadastrados na Bling são sincronizados para a ConnectPlug.",
+      "Clientes cadastrados na ConnectPlug são sincronizados para a Bling.",
+      "Ambos os sentidos são sincronizados automaticamente.",
+      "Nenhum cliente é sincronizado entre as plataformas."
+    ],
+    "correct_answer": "Clientes cadastrados na ConnectPlug são sincronizados para a Bling.",
+    "answered": false,
+    "category": "Integração Bling"
+  },
+  {
+    "question": "Os **métodos de pagamento** são sincronizados automaticamente entre o ConnectPlug e o Bling na integração?",
+    "options": [
+      "Sim, automaticamente.",
+      "Não, é necessário realizar um mapeamento ('DE-PARA') manual.",
+      "Apenas se ambos tiverem o mesmo nome.",
+      "Somente para pagamentos via cartão de crédito."
+    ],
+    "correct_answer": "Não, é necessário realizar um mapeamento ('DE-PARA') manual.",
+    "answered": false,
+    "category": "Integração Bling"
+  },
+  {
+    "question": "Ao migrar de uma integração Bling V2 para V3, qual procedimento é necessário realizar no ERP ConnectPlug?",
+    "options": [
+      "Apenas atualizar o software.",
+      "Excluir todos os produtos e clientes existentes para iniciar uma nova integração do zero.",
+      "Manter os dados e apenas reconfigurar as APIs.",
+      "Não é necessário nenhum procedimento no ERP ConnectPlug."
+    ],
+    "correct_answer": "Excluir todos os produtos e clientes existentes para iniciar uma nova integração do zero.",
+    "answered": false,
+    "category": "Integração Bling"
+  },
+  {
+    "question": "É necessário contratar o módulo API ou algum módulo exclusivo com a ConnectPlug para utilizar a integração com o Bling?",
+    "options": [
+      "Sim, o módulo API é obrigatório.",
+      "Sim, o módulo de Atualização em Tempo Real é exclusivo.",
+      "Não, apenas o módulo 'GRADE DE PRODUTOS' é exigido se atributos forem utilizados em ambas plataformas.",
+      "Sim, todos os módulos de vendas são obrigatórios."
+    ],
+    "correct_answer": "Não, apenas o módulo 'GRADE DE PRODUTOS' é exigido se atributos forem utilizados em ambas plataformas.",
+    "answered": false,
+    "category": "Integração Bling"
+  },
+  {
+    "question": "Qual é a causa comum de falha na sincronização de vendas do PDV ConnectPlug para o Bling e qual a solução recomendada?",
+    "options": [
+      "Falha de conexão com a internet; redefinir a rede.",
+      "A opção 'Editar número do pedido de venda' habilitada no Bling; desabilitá-la.",
+      "Problema de licença do software; reativar a licença.",
+      "Versão desatualizada do PDV; atualizar o aplicativo."
+    ],
+    "correct_answer": "A opção 'Editar número do pedido de venda' habilitada no Bling; desabilitá-la.",
+    "answered": false,
+    "category": "Integração Bling"
+  }
 ]
